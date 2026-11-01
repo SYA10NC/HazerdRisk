@@ -16,6 +16,8 @@
 
 ### 第2弾：未然防止アーキテクチャの深掘り（2026-11-02）
 
+【訂正 2026-11-01】第2弾の日付は 2026-11-01 が正しい（各ファイルの調査日による。ISSUES I-06）
+
 7. [07_safety_supervisor_architectures.md](07_safety_supervisor_architectures.md) — 安全監視・ガーディアン型のシステム全体構成（24件）
 8. [08_risk_assessment_algorithms.md](08_risk_assessment_algorithms.md) — リスク評価・予測アルゴリズム（31件）
 9. [09_ml_model_architectures.md](09_ml_model_architectures.md) — CAN時系列MLモデルの構成（27件）
@@ -26,6 +28,14 @@
 ### 第3弾：自動調査ループ
 
 13. [13_industry_safety_architectures.md](13_industry_safety_architectures.md) — 自動運転・ADAS企業／OSSの安全アーキテクチャ比較（28件。本文を読めたのはREADME等の一部で、多くは検索抜粋）
+
+### 運用ファイル（重複調査の防止とタスク管理）
+
+- [COVERAGE.md](COVERAGE.md) — 調査済み論点の網羅表。新しい調査の前に必ず読む
+- [SOURCES.md](SOURCES.md) — 既出URLの索引（`python3 scripts/sources_index.py` で自動生成）
+- [ISSUES.md](ISSUES.md) — 調査の問題点とタスク
+- [BACKLOG.md](BACKLOG.md) — 未着手テーマ（テーマごとのゴールプロンプト付き）
+- 注記（2026-11-01）: 各ファイルの件数表記は基準が統一されていない（ISSUES I-10）。今後は「新規（本文確認）／新規（抜粋のみ）／既出の再掲」の3区分で書く
 
 ## テーマ横断の要点
 

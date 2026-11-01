@@ -1,6 +1,7 @@
 # 13 自動運転・ADAS企業／OSSの安全アーキテクチャ比較 — CANのみ構成への転用要素
 
 - 調査日: 2026-11-01
+- 既存調査との重なり【訂正 2026-11-01 追記】: Toyota Guardian・RSS・openpilot 安全モデルは 07（[1]・[9]・[19]）、openpilot・Autoware の構成は 11（§6.1・§6.2）でも扱っている。本稿の S8・S9・S14・S21・S13・comma ブログは既出URLの再掲である（ISSUES I-04）
 - 論点: Waymo・Tesla・Mobileye・Wayve・Woven by Toyota／Toyota・Baidu Apollo・Autoware・openpilot の公開資料から、予兆検知・安全監視・フォールバックの層構成を比較し、CANのみの有人運転向け構成（12）に転用できる要素を抽出する
 
 ## 2. エグゼクティブサマリー
@@ -159,6 +160,7 @@
 
 1. Apollo guardian/monitorの実装コードで閾値と required_for_safety の扱いを確認する
 2. RSS縦方向式を一次資料（arXiv 1708.06374）で照合し、CAN信号での実装可否（車種別）をBACKLOG 4と合わせて整理する
+   - 【訂正 2026-11-01】arXiv 1708.06374 は 07 の [9] ですでに扱っている。照合は 07 [9] を起点に BACKLOG B-15 で行う（ISSUES I-05）
 3. 12に「入力健全性DAG＋可用性ベクトル」「警告の単調エスカレート／ラッチ」を設計要素として追記する
 4. Tesla Safety Scoreの版別定義を一次ページで確定し、CAN再現可能なイベント率の対応表を作る
 5. Wayve・Waymoの一次資料（公式安全報告）を、ドメイン許可のある環境で再確認する
