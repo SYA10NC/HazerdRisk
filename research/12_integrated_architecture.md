@@ -165,3 +165,8 @@ flowchart TB
 - [10_warning_intervention_and_validation.md](10_warning_intervention_and_validation.md) — 警報・介入の設計と検証（37件）
 - [11_deployment_architectures.md](11_deployment_architectures.md) — 実装・デプロイ構成（44件）
 - 第1弾の調査（01〜06）は [README.md](README.md) を参照
+
+
+## 更新履歴
+
+- 2026-11-01: 13の知見より、L1に入力健全性のDAG／可用性ベクトル（Autoware型）、L5に警告の単調エスカレートとラッチ、推論ハートビート途絶時の「警告不能」通知（Apollo Guardian型）を設計候補として追加（【推察】。一次資料の再確認が必要）

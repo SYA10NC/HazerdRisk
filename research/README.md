@@ -23,6 +23,10 @@
 11. [11_deployment_architectures.md](11_deployment_architectures.md) — 実装・デプロイ構成（44件）
 12. **[12_integrated_architecture.md](12_integrated_architecture.md) — 07〜11を統合した参照アーキテクチャと導入ロードマップ**
 
+### 第3弾：自動調査ループ
+
+13. [13_industry_safety_architectures.md](13_industry_safety_architectures.md) — 自動運転・ADAS企業／OSSの安全アーキテクチャ比較（28件。本文を読めたのはREADME等の一部で、多くは検索抜粋）
+
 ## テーマ横断の要点
 
 ### 1. 既存ADASとの棲み分け（04）
@@ -68,3 +72,8 @@
 - DDAW・ADDWの適用時期は「要確認」（02）
 - 一部データセットのライセンスと、東京農工大・JARIのヒヤリハットDBの公開条件は未確認（03）
 - Progressive と Allstate の閾値は、一次情報と二次情報で値が食い違う（06）
+
+
+### 7. 企業・OSSの安全アーキテクチャ（13）
+- Apollo・Autoware・openpilotは「入力監視→健全性集約→判断→縮退→最終ゲート」の層構成を公開している。CANのみ構成では、L1の健全性DAG、警告の単調エスカレート／ラッチ、推論ハートビート監視、受信専用の担保が転用候補である【推察】
+- 最終縮退が停止である自動運転と異なり、本構成の縮退は「警告の縮退と警告不能の通知」である【推察】
