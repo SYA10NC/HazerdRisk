@@ -3,15 +3,18 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 424
+- ユニークURL数: 465
 - 複数ファイルで重複: 29
 
-## news/2026-11.md（4件）
+## news/2026-11.md（7件）
 
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
+- https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
+- https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
+- https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 
 ## research/01_can_driving_behavior_detection.md（32件）
 
@@ -499,3 +502,44 @@
 - https://theautopian.com/is-tesla-may-miscounting-crashes-to-make-autopilot-seem-safer-new-study-suggests-it-might-be
 - https://waymo.com/safety/impact
 - https://woven.toyota/en/news/20250521
+
+## research/14_can_only_multisecond_prediction.md（38件）
+
+- https://arxiv.org/abs/1702.01228
+- https://arxiv.org/abs/1706.02257
+- https://arxiv.org/abs/1808.00516
+- https://arxiv.org/abs/2006.12769
+- https://arxiv.org/abs/2109.08355
+- https://arxiv.org/abs/2401.13796
+- https://arxiv.org/abs/2510.22260
+- https://doaj.org/article/4e96a070db1d441f9e3e9c05b426ac33
+- https://dspace.lib.cranfield.ac.uk/items/e1f4ddca-0b39-47c1-aebd-b0ba2fc3aa52
+- https://global.honda/en/tech/Predictive_Curve_Departure_Warning_PCDW
+- https://hal.archives-ouvertes.fr/hal-01104458
+- https://ir.lib.uth.gr/xmlui/handle/11615/76243
+- https://iris.polito.it/retrieve/handle/11583/2976669/627216
+- https://iro.uiowa.edu/esploro/outputs/journalArticle/Real-Time-Detection-of-Drowsiness-Related-Lane/9984627253302771
+- https://jstage.jst.go.jp/article/jsaeronbun/45/3/45_20144542/_article/-char/en
+- https://jstage.jst.go.jp/article/jsmbe/53/Supplement/53_S171_03/_article/-char/en
+- https://jstage.jst.go.jp/article/jsmetld/2008.17/0/2008.17_305/_article/-char/ja
+- https://kaken.nii.ac.jp/en/report/KAKENHI-PROJECT-23686073/236860732013jisseki
+- https://mdpi.com/1996-1073/12/13/2483
+- https://mlit.go.jp/jidosha/anzen/03driverec/resourse/data/dora-houkoku19.pdf
+- https://orbilu.uni.lu/handle/10993/42721
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6164830
+- https://preprints.org/manuscript/202601.2310
+- https://repository.essex.ac.uk/27594/1/JMST-V35-N4-2020-2161-2170.pdf
+- https://repository.lboro.ac.uk/articles/What_came_before_the_crash_An_investigation_through_SHRP2_NDS_data/9352754
+- https://repository.lboro.ac.uk/articles/journal_contribution/Advances_challenges_and_future_research_needs_in_machine_learning-based_crash_prediction_models_a_systematic_review/25112114
+- https://repository.lboro.ac.uk/articles/thesis/Developing_transferable_real-time_crash_prediction_models_for_highly_imbalanced_data/19778893
+- https://research-collection.ethz.ch/items/6accc999-c85e-4040-b3c3-afc6c1be9b21
+- https://research.monash.edu/en/publications/predicting-drowsiness-related-driving-events-a-review-of-recent-r
+- https://saemobilus.sae.org/articles/characterization-lane-keeping-departure-scenarios-using-large-scale-naturalistic-driving-data-09-14-01-0022
+- https://saemobilus.sae.org/papers/predicting-cut-events-using-lstm-based-techniques-2026-26-0636
+- https://scipedia.com/public/Kouchak_Gaffar_2019a
+- https://scitepress.org/Papers/2009/21734/21734.pdf
+- https://scitex-seizure-metrics.readthedocs.io/en/latest/math/alarm_confusion_matrix.html
+- https://tech.jsae.or.jp/paperinfo/en/content/jt202102.22
+- https://tech.jsae.or.jp/paperinfo/ja/content/p2011145.04
+- https://tjsafety.tongji.edu.cn/65/d0/c36037a353744/page.htm
+- https://www-nrd.nhtsa.dot.gov/pdf/ESV/Proceedings/25/25ESV-000400.pdf
