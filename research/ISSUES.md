@@ -69,3 +69,7 @@
 ## 完了
 
 - I-02 [環境] main への push が 403（Claude GitHub App の権限なし）— 完了 2026-11-01。オーナーが権限を直し、同日の再 push が成功した（commit d256ae2）
+
+## 追記 2026-11-02
+- I-01 継続: 2026-11-02 も arxiv.org に加え govinfo.gov・iihs.org・ncbi.nlm.nih.gov・erieinsurance.com 等が WebFetch 不可。15 の本文確認は 0 件。要オーナー対応
+- I-03 継続: 今回の起動は 2026-11-02 19:15 UTC（04:15 JST ではなく 04:15 相当の食い違い未解消。ルーチン名は毎日6時JST）

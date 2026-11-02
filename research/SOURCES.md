@@ -3,16 +3,20 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 465
-- 複数ファイルで重複: 29
+- ユニークURL数: 495
+- 複数ファイルで重複: 33
 
-## news/2026-11.md（7件）
+## news/2026-11.md（11件）
 
+- https://arxiv.org/abs/2603.14841
+- https://arxiv.org/abs/2606.06074
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
+- https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
+- https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 
@@ -543,3 +547,36 @@
 - https://tech.jsae.or.jp/paperinfo/ja/content/p2011145.04
 - https://tjsafety.tongji.edu.cn/65/d0/c36037a353744/page.htm
 - https://www-nrd.nhtsa.dot.gov/pdf/ESV/Proceedings/25/25ESV-000400.pdf
+
+## research/15_adas_false_alarm_field_data.md（30件）
+
+- https://arxiv.org/abs/2503.23393
+- https://arxiv.org/abs/2510.22260
+- https://arxiv.org/abs/2603.14841
+- https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
+- https://erieinsurance.com/newsroom/press-releases/2020/car-safety-survey
+- https://federalregister.gov/documents/2024/11/26/2024-27349/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles
+- https://genorma.com/en/standards/iso-17361-2017
+- https://govinfo.gov/content/pkg/FR-2024-05-09/html/2024-09054.htm
+- https://honda.co.jp/recall/auto/info/150514_3566.html
+- https://iihs.org/news/detail/fewer-drivers-are-opting-out-of-lane-departure-prevention
+- https://iihs.org/research-areas/bibliography/ref/2344
+- https://itskrs.its.dot.gov/2007-l00328
+- https://jdpower.com/sites/default/files/file/2022-11/2022138%20U.S.%20ADAS.pdf
+- https://kokusen.go.jp/news/data/n-20180118_1.html
+- https://landline.media/?p=81566
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC7038345
+- https://nhtsa.gov/node/10191
+- https://nhtsa.gov/node/10346
+- https://nhtsa.gov/sites/nhtsa.dot.gov/files/barickman_lanedepartuerwarning_final.pdf
+- https://odr.chalmers.se/handle/20.500.12380/118609?locale=en
+- https://public-inspection.federalregister.gov/2025-06077.pdf
+- https://qz.com/us-probe-of-hondas-that-can-activate-emergency-braking-1851417464
+- https://rosap.ntl.bts.gov/view/dot/9533/dot_9533_DS1.pdf
+- https://scribd.com/document/584522946/10-1109-ACCESS-2019-2924481
+- https://theglobeandmail.com/globe-drive/news/two-car-safety-technologies-you-definitely-need/article4403996
+- https://tjsafety.tongji.edu.cn/65/d0/c36037a353744/page.htm
+- https://trafficnews.jp/post/52660
+- https://trafficnews.jp/post/92240
+- https://ttnews.com/articles/nhtsa-opens-probe-nissan-rogue-automatic-emergency-braking
+- https://wa.gov.au/system/files/2021-08/Automated-Driving-Lane-departure-Warning-LDW-project-report_1.pdf
