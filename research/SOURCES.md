@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 495
+- ユニークURL数: 527
 - 複数ファイルで重複: 33
 
-## news/2026-11.md（11件）
+## news/2026-11.md（13件）
 
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
@@ -16,9 +16,11 @@
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
+- https://globalautoregs.com/meetings/3440
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
+- https://trid.trb.org/View/2736805
 
 ## research/01_can_driving_behavior_detection.md（32件）
 
@@ -580,3 +582,36 @@
 - https://trafficnews.jp/post/92240
 - https://ttnews.com/articles/nhtsa-opens-probe-nissan-rogue-automatic-emergency-braking
 - https://wa.gov.au/system/files/2021-08/Automated-Driving-Lane-departure-Warning-LDW-project-report_1.pdf
+
+## research/16_lead_vehicle_signals_by_vehicle.md（30件）
+
+- https://community.sunnypilot.ai/t/-/4831/1
+- https://community.sunnypilot.ai/t/3743
+- https://github.com/Konik-ai/j1939_dbc/blob/main/dbc/j1939.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/car/chrysler/radar_interface.py
+- https://github.com/commaai/opendbc/blob/master/opendbc/car/honda/radar_interface.py
+- https://github.com/commaai/opendbc/blob/master/opendbc/car/hyundai/radar_interface.py
+- https://github.com/commaai/opendbc/blob/master/opendbc/car/toyota/radar_interface.py
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/FORD_CADS.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/ford_fusion_2018_adas.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/generator/honda/_bosch_radar_acc.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/generator/honda/_nidec_common.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/generator/hyundai/hyundai_can.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/generator/hyundai/hyundai_canfd.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/generator/tesla/_radar_common.py
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/gm_global_a_object.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/mazda_radar.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/tesla_model3_party.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/toyota_adas.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/toyota_radar_dsu_tssp.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/toyota_tss2_adas.dbc
+- https://github.com/commaai/opendbc/blob/master/opendbc/dbc/vw_mqb.dbc
+- https://github.com/commaai/openpilot/wiki/Ford
+- https://github.com/commaai/openpilot/wiki/VW-J533-%28Gateway%29-Cable
+- https://github.com/commaai/openpilot/wiki/Volkswagen
+- https://github.com/cydia2020/toyota-dsu-reroute-harness
+- https://isobus.net/isobus/pGNAndSPN/14677?type=PGN
+- https://raw.githubusercontent.com/commaai/openpilot/master/docs/CARS.md
+- https://thierry-lequeu.fr/data/fms_document_ver02.00vers_11_11_2010.pdf
+- https://workshop-heroes.mahle.com/en/article/cyber-security-pass
+- https://youcanic.com/fca-sgm

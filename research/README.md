@@ -30,6 +30,8 @@
 13. [13_industry_safety_architectures.md](13_industry_safety_architectures.md) — 自動運転・ADAS企業／OSSの安全アーキテクチャ比較（28件。本文を読めたのはREADME等の一部で、多くは検索抜粋）
 14. [14_can_only_multisecond_prediction.md](14_can_only_multisecond_prediction.md) — CANのみで数秒以上先の危険を予測した研究の探索（38件、全て検索抜粋）。CAN系の実車予測は0.5〜1.5秒止まりで、CANのみ・実車・2秒以上・偽警報率つきは未発見
 
+16. [16_lead_vehicle_signals_by_vehicle.md](16_lead_vehicle_signals_by_vehicle.md) — 先行車情報（レーダ/ACC）が CAN に出る車種の整理（30件：新規本文24／抜粋6）。距離・相対速度の物理量は Toyota・GM・Mazda・Ford・Hyundai・Honda Nidec にあり、VW・Tesla は段階フラグ／ECU算出TTC中心。OBD での可視性を車種別に明記した資料は未発見。J1939 は ACC1（PGN 65135）に距離・速度・FCW
+
 ### 運用ファイル（重複調査の防止とタスク管理）
 
 - [COVERAGE.md](COVERAGE.md) — 調査済み論点の網羅表。新しい調査の前に必ず読む

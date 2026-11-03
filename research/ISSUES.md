@@ -73,3 +73,10 @@
 ## 追記 2026-11-02
 - I-01 継続: 2026-11-02 も arxiv.org に加え govinfo.gov・iihs.org・ncbi.nlm.nih.gov・erieinsurance.com 等が WebFetch 不可。15 の本文確認は 0 件。要オーナー対応
 - I-03 継続: 今回の起動は 2026-11-02 19:15 UTC（04:15 JST ではなく 04:15 相当の食い違い未解消。ルーチン名は毎日6時JST）
+
+### I-12 [環境] 2026-11-03 の実行でも arxiv.org・csselectronics.com・blog.comma.ai・wikipedia・isobus.net・youcanic.com が WebFetch 不可
+- 事実: 名前解決に失敗。github.com と raw.githubusercontent.com は取得できた。I-01 の対処（Allowed domains 追加）が未実施
+- 影響: 16 の抜粋のみ 6 件、AEBS の PGN/SPN 未確認（B-17）。状態: 要オーナー対応
+
+### I-13 [プロセス] 15 までの「ファイルを書くとき BACKLOG の旧テーマ定義を消さない」運用
+- 事実: B-03 を完了に移す際、定義を要約して「完了」欄に残した（CLAUDE.md の削除禁止に配慮）。LOOP.md に「完了へ移すときは元定義を要約して残す」と明記するとよい。状態: 未対応
