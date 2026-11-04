@@ -9,3 +9,4 @@
 - 2026-11-01 | 14_can_only_multisecond_prediction.md | ソース38件（0/38/0＝新規本文/新規抜粋/既出。全て検索抜粋） | news 3件 | B-01。CANのみ・実車・2秒以上先・偽警報率つきの研究は未発見。CAN系は0.5〜1.5秒、横は約1秒（誤警報約3.1%）止まり
 - 2026-11-02 | 15_adas_false_alarm_field_data.md | ソース34件（0/31/3＝新規本文/新規抜粋/既出） | news 4件 | B-02。誤警報率の公的実測は未発見。無効化率はLDWが最大。WebFetch不可(I-01)で本文確認0
 - 2026-11-03 | 16_lead_vehicle_signals_by_vehicle.md | ソース30件（24/6/0＝新規本文/新規抜粋/既出） | news 2件 | B-03。距離・相対速度の物理量は Toyota/GM/Mazda/Ford/Hyundai/Honda Nidec。OBD 可視性の車種別一次資料は未発見。J1939 ACC1=PGN 65135
+- 2026-11-04 | 17_shrp2_triggers_and_can_reproduction.md | ソース24件（0/21/3＝新規本文/新規抜粋/既出再掲） | news 4件 | B-04。12行のトリガ表は一次未確認。CAN再現の注意5点（微分ノイズ・車輪スリップ・取付軸ずれ・記録周期・段差誤検知）

@@ -3,11 +3,12 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 527
+- ユニークURL数: 556
 - 複数ファイルで重複: 33
 
-## news/2026-11.md（13件）
+## news/2026-11.md（17件）
 
+- https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
@@ -18,8 +19,11 @@
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://globalautoregs.com/meetings/3440
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
+- https://mlit.go.jp/report/press/jidosha10_hh_000353.html
+- https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
+- https://thebrakereport.com/nhtsa-expands-probe-into-daimler-trucks-automatic-emergency-braking-errors
 - https://trid.trb.org/View/2736805
 
 ## research/01_can_driving_behavior_detection.md（32件）
@@ -615,3 +619,31 @@
 - https://thierry-lequeu.fr/data/fms_document_ver02.00vers_11_11_2010.pdf
 - https://workshop-heroes.mahle.com/en/article/cyber-security-pass
 - https://youcanic.com/fca-sgm
+
+## research/17_shrp2_triggers_and_can_reproduction.md（25件）
+
+- https://arxiv.org/abs/1211.0319
+- https://cir.nii.ac.jp/crid/1390009714522138496
+- https://cris.iucc.ac.il/en/publications/smartphones-vs-in-vehicle-data-acquisition-systems-as-tools-for-n-2
+- https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-24-070.pdf
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6623090
+- https://mlit.go.jp/common/000051538.pdf
+- https://mlit.go.jp/jidosha/anzen/03driverec/resourse/data/dora-houkoku2.pdf
+- https://mlit.go.jp/kisha/kisha06/09/090630_4/02.pdf
+- https://nilim.go.jp/lab/bcg/siryou/2024report/ar2024hp043.pdf
+- https://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_PB_S08_2013-05.pdf
+- https://ornl.gov/publication/inferring-safety-critical-events-vehicle-kinematics-naturalistic-driving-environment
+- https://patents.google.com/patent/JP6213359B2/ja
+- https://research.chalmers.se/en/publication/254471
+- https://research.chalmers.se/publication/162698
+- https://research.google/pubs/smartphone-based-hard-braking-events-detection-at-scale-for-road-safety-services
+- https://saemobilus.sae.org/content/2002-01-2229
+- https://saemobilus.sae.org/papers/calibration-inertial-measurement-unit-impact-antilock-braking-system-performance-2024-26-0014
+- https://saemobilus.sae.org/papers/speed-acceleration-filters-estimators-powertrain-vehicle-controls-2007-01-1599
+- https://sciencedirect.com/science/article/abs/pii/S0001457517301033
+- https://sciencedirect.com/science/article/abs/pii/S0925753518300092
+- https://seikatubunka.metro.tokyo.lg.jp/documents/d/seikatubunka/houkokusyo
+- https://swov.nl/en/publicatie/description-shrp2-naturalistic-database-and-crash-near-crash-and-baseline-data-sets
+- https://uwe-repository.worktribe.com/index.php/OutputFile/12111851
+- https://vtechworks.lib.vt.edu/items/65032784-5c46-48e6-8d2e-12eb1964d3e9/full
+- https://vtechworks.lib.vt.edu/items/version/16

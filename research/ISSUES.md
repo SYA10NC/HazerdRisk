@@ -80,3 +80,9 @@
 
 ### I-13 [プロセス] 15 までの「ファイルを書くとき BACKLOG の旧テーマ定義を消さない」運用
 - 事実: B-03 を完了に移す際、定義を要約して「完了」欄に残した（CLAUDE.md の削除禁止に配慮）。LOOP.md に「完了へ移すときは元定義を要約して残す」と明記するとよい。状態: 未対応
+
+### I-14 [環境] 2026-11-04 も vtechworks・mlit.go.jp・saemobilus・cir.nii.ac.jp・onlinepubs.trb.org・arxiv.org が WebFetch 不可
+- 事実: 名前解決に失敗。17 の全ソース24件が検索抜粋のみ。SHRP2 トリガ表は確定できず（B-19）。状態: 要オーナー対応（I-01 と同根）
+
+### I-15 [プロセス] サブエージェント間で同一文献を別 URL で返す重複
+- 事実: 17 の調査で、Sudweeks・Perez 2017・SWOV 書誌ページ・Chalmers が複数エージェントから返り、さらに Sudweeks・Perez は 05 の既出文献だった（URL が異なるため sources_index.py は NEW と判定）。対策案: URL だけでなく著者・題名でも照合する。状態: 未対応
