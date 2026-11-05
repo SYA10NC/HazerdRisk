@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 556
-- 複数ファイルで重複: 33
+- ユニークURL数: 587
+- 複数ファイルで重複: 35
 
-## news/2026-11.md（17件）
+## news/2026-11.md（20件）
 
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
@@ -18,8 +18,11 @@
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://globalautoregs.com/meetings/3440
+- https://jahic-etc.com/2026/02/05/jahic_26_2_5
+- https://mlit.go.jp/report/press/jidosha10_hh_000330.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000353.html
+- https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
@@ -647,3 +650,36 @@
 - https://uwe-repository.worktribe.com/index.php/OutputFile/12111851
 - https://vtechworks.lib.vt.edu/items/65032784-5c46-48e6-8d2e-12eb1964d3e9/full
 - https://vtechworks.lib.vt.edu/items/version/16
+
+## research/18_pedal_misapplication_low_speed.md（30件）
+
+- https://car.watch.impress.co.jp/docs/news/2078212.html
+- https://cdn.euroncap.com/cars/assets/Euro_NCAP_Protocol_Crash_Avoidance_Low_Speed_Collisions_v1_2_3d24fa41ea.pdf
+- https://cleantechnica.com/2021/01/08/nhtsa-sudden-accelerations-in-teslas-were-pedal-misapplication
+- https://fisita.com/library/fwc2023-sca-038
+- https://honda.co.jp/ownersmanual/webom/jpn/freedhybrid/2023/details/136177090-61567.html
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11834061
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12227200
+- https://iso.org/standard/85900.html
+- https://itmedia.co.jp/business/spv/2111/08/news048_3.html
+- https://jahic-etc.com/2026/02/05/jahic_26_2_5
+- https://jstage.jst.go.jp/article/jsaeronbun/56/3/56_20254228/_article/-char/en
+- https://jstage.jst.go.jp/article/jsmetld/2023.32/0/2023.32_TL5-2/_article/-char/ja
+- https://kuruma-news.jp/post/213656
+- https://mlit.go.jp/jidosha/anzen/02assessment/data/h29_1_3_2.pdf
+- https://mlit.go.jp/report/press/content/001320702.pdf
+- https://mlit.go.jp/report/press/jidosha07_hh_000315.html
+- https://mlit.go.jp/report/press/jidosha07_hh_000344.html
+- https://mlit.go.jp/report/press/jidosha10_hh_000330.html
+- https://nhtsa.gov/sites/nhtsa.gov/files/documents/812058.pdf
+- https://nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/PEDAL
+- https://patents.google.com/patent/US12370891
+- https://patents.google.com/patent/US8255121
+- https://patents.google.com/patent/US8888656
+- https://response.jp/article/2019/08/02/325127.html
+- https://saemobilus.sae.org/content/2022-01-0817
+- https://saemobilus.sae.org/papers/research-pedal-operation-characteristics-detecting-pedal-misapplication-2025-01-8675
+- https://tech.jsae.or.jp/paperinfo/ja/content/p202101.362
+- https://toyota.jp/sapotoyo/commentary/sapotoyoplus/kasoku_yokusei_system
+- https://transportation.gov/briefing-room/us-department-transportation-releases-results-nhtsa-nasa-study-unintended-acceleration
+- https://unece.org/sites/default/files/2023-09/GRVA-17-40e.pdf

@@ -86,3 +86,6 @@
 
 ### I-15 [プロセス] サブエージェント間で同一文献を別 URL で返す重複
 - 事実: 17 の調査で、Sudweeks・Perez 2017・SWOV 書誌ページ・Chalmers が複数エージェントから返り、さらに Sudweeks・Perez は 05 の既出文献だった（URL が異なるため sources_index.py は NEW と判定）。対策案: URL だけでなく著者・題名でも照合する。状態: 未対応
+
+### I-16 [環境] 2026-11-05 実行でも WebFetch 不可（I-01 継続）
+- 事実: arxiv.org に加え、mlit.go.jp、saemobilus.sae.org、patents.google.com、unece.org、toyota.jp、cdn.euroncap.com、nhtsa.gov、jstage.jst.go.jp 等で名前解決に失敗。18 の全ソースが抜粋のみ。B-15・B-16・B-19・B-20 は前提未達で着手不可。状態: 要オーナー対応（I-01 と同じ）
