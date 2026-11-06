@@ -93,3 +93,4 @@
 15. [15_adas_false_alarm_field_data.md](15_adas_false_alarm_field_data.md) — 量産ADASの誤警報・不要作動の実測と偽警報率の定義比較（B-02。新規31件、全て検索抜粋）。分母つきの誤警報率は未発見で、苦情件数・無効化率・PP100が中心
 17. [17_shrp2_triggers_and_can_reproduction.md](17_shrp2_triggers_and_can_reproduction.md) — SHRP2 運動学トリガと CAN での再現（B-04。新規抜粋21件、既出再掲3件。12行のトリガ表は一次未確認。微分ノイズ・車輪スリップ・取付軸ずれなど再現上の注意を整理）
 18. [18_pedal_misapplication_low_speed.md](18_pedal_misapplication_low_speed.md) — 低速域・ペダル踏み間違いの規制（UN R175・国交省2026年1月改正）と、アクセル開度・操作速度・車速・シフトによるセンサ無し型検知（B-05。新規抜粋24件、全て検索抜粋。数値条件は原文未確認）
+19. [19_intersection_precursors_can_only.md](19_intersection_precursors_can_only.md) — 交差点・出会い頭・右左折事故の予兆を自車CANで捉える研究（B-06。新規抜粋18件、全て検索抜粋）。CANのみで交差点を判定した研究は未発見。SHRP2 系は地図・アノテーション前提

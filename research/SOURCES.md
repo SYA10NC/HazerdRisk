@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 587
-- 複数ファイルで重複: 35
+- ユニークURL数: 608
+- 複数ファイルで重複: 36
 
-## news/2026-11.md（20件）
+## news/2026-11.md（23件）
 
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
@@ -19,10 +19,13 @@
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
+- https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
+- https://mlit.go.jp/page/kanbo01_hy_011165.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000330.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000353.html
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
+- https://public-inspection.federalregister.gov/2026-10363.pdf
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
@@ -683,3 +686,25 @@
 - https://toyota.jp/sapotoyo/commentary/sapotoyoplus/kasoku_yokusei_system
 - https://transportation.gov/briefing-room/us-department-transportation-releases-results-nhtsa-nasa-study-unintended-acceleration
 - https://unece.org/sites/default/files/2023-09/GRVA-17-40e.pdf
+
+## research/19_intersection_precursors_can_only.md（19件）
+
+- https://arxiv.org/abs/1702.00135
+- https://arxiv.org/abs/2008.06727
+- https://bestcarweb.jp/feature/column/732828?prd=2
+- https://doaj.org/article/c5685cb89ec243699fd7086889ad5418
+- https://gamebusiness.jp/article/2017/10/05/13558.html
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11900657
+- https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
+- https://pref.aichi.jp/uploaded/attachment/299161.pdf
+- https://pref.shiga.lg.jp/file/attachment/5487084.pdf
+- https://saemobilus-test.cld.sae.org/papers/driver-behavior-left-turn-across-path-opposite-direction-crash-near-crash-events-shrp2-naturalistic-driving-2019-01-0414
+- https://saemobilus-test.cld.sae.org/papers/typical-acceleration-profiles-left-turn-maneuvers-based-shrp2-naturalistic-driving-data-2021-01-0889
+- https://saemobilus.sae.org/content/2021-01-0872
+- https://scilit.net/publications/6ca2dee3eac7900df482c340b3f9584b
+- https://trid.trb.org/View/1392540
+- https://ugpti.org/resources/reports/downloads/mpc17-338.pdf
+- https://vtechworks.lib.vt.edu/items/095f886e-a102-4c6f-9617-3cca127dc6c8/full
+- https://vtechworks.lib.vt.edu/server/api/core/bitstreams/35c20a48-ed11-488f-9bbc-92aea427c537/content
+- https://vtti.whos.prod.es.cloud.vt.edu/PDFs/NDRS-2012-presentations/Presentation_08292012_VTTI_NDS_Final4.pdf
+- https://vufind-test.katalog.k.utb.cz/SummonRecord/FETCH-LOGICAL-c394t-5cc8407021bc2a9447d9a4c2867e687082230384668517d8f5fedccfeb2d57ff3

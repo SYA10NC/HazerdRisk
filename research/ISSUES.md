@@ -89,3 +89,9 @@
 
 ### I-16 [環境] 2026-11-05 実行でも WebFetch 不可（I-01 継続）
 - 事実: arxiv.org に加え、mlit.go.jp、saemobilus.sae.org、patents.google.com、unece.org、toyota.jp、cdn.euroncap.com、nhtsa.gov、jstage.jst.go.jp 等で名前解決に失敗。18 の全ソースが抜粋のみ。B-15・B-16・B-19・B-20 は前提未達で着手不可。状態: 要オーナー対応（I-01 と同じ）
+
+### I-17 [環境] 2026-11-06 実行でも WebFetch 不可（I-01 継続）
+- 事実: arxiv.org に加え vtechworks・ugpti.org・pref.aichi.jp・jama.or.jp・scilit.net・sciencegate.app で名前解決に失敗。19 の全18件が抜粋のみ。状態: 要オーナー対応（I-01 と同じ）
+
+### I-18 [品質] 19 の一部ソースは著者・年・正規URLが未特定
+- 事実: S2（図書館カタログ）、SAE 論文2件（test ホストURL）、愛知県PDF（対象特定未了）。次回、原典特定が要る。状態: 未対応
