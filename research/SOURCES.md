@@ -3,19 +3,21 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 608
+- ユニークURL数: 649
 - 複数ファイルで重複: 36
 
-## news/2026-11.md（23件）
+## news/2026-11.md（26件）
 
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
+- https://autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-tesla-mobileye-aeva-ouster-pony-ai-nvidia-stellantis-bolt-wayve-volkswagen-einride-valeo-aptiv-tier-iv
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
+- https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
@@ -27,6 +29,7 @@
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://public-inspection.federalregister.gov/2026-10363.pdf
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
+- https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 - https://thebrakereport.com/nhtsa-expands-probe-into-daimler-trucks-automatic-emergency-braking-errors
@@ -708,3 +711,44 @@
 - https://vtechworks.lib.vt.edu/server/api/core/bitstreams/35c20a48-ed11-488f-9bbc-92aea427c537/content
 - https://vtti.whos.prod.es.cloud.vt.edu/PDFs/NDRS-2012-presentations/Presentation_08292012_VTTI_NDS_Final4.pdf
 - https://vufind-test.katalog.k.utb.cz/SummonRecord/FETCH-LOGICAL-c394t-5cc8407021bc2a9447d9a4c2867e687082230384668517d8f5fedccfeb2d57ff3
+
+## research/20_world_model_and_distillation_for_can_only.md（38件）
+
+- https://abci.ai/ja/acceleration_program/fy24/FY24-42.pdf
+- https://arxiv.org/abs/1608.01230
+- https://arxiv.org/abs/1812.11596
+- https://arxiv.org/abs/1912.12294
+- https://arxiv.org/abs/2203.11934
+- https://arxiv.org/abs/2206.08176
+- https://arxiv.org/abs/2306.07962
+- https://arxiv.org/abs/2308.05701
+- https://arxiv.org/abs/2309.10443
+- https://arxiv.org/abs/2312.03031
+- https://arxiv.org/abs/2405.17398
+- https://arxiv.org/abs/2408.14197
+- https://arxiv.org/abs/2412.08643
+- https://arxiv.org/abs/2412.14415
+- https://arxiv.org/abs/2501.03575
+- https://arxiv.org/abs/2501.11260
+- https://arxiv.org/abs/2502.11800
+- https://arxiv.org/abs/2503.07259
+- https://arxiv.org/abs/2503.20523
+- https://arxiv.org/abs/2504.19077
+- https://arxiv.org/abs/2507.19686
+- https://arxiv.org/abs/2508.04845
+- https://arxiv.org/abs/2511.14499
+- https://arxiv.org/abs/2512.02417
+- https://arxiv.org/abs/2601.20367
+- https://arxiv.org/abs/2605.22185
+- https://blog.comma.ai/011release
+- https://blog.comma.ai/mlsim
+- https://github.com/OpenDriveLab/Vista
+- https://github.com/commaai/commavq
+- https://ipsj.ixsq.nii.ac.jp/records/209071/export/bibtex
+- https://ir.lib.uwo.ca/etd/6844
+- https://monoist.itmedia.co.jp/mn/spv/2409/05/news089.html
+- https://ojs.aaai.org/index.php/AAAI/article/view/33010
+- https://proceedings.iclr.cc/paper_files/paper/2026/hash/cd6bca5b49813ec04556cd37eecb87dd-Abstract-Conference.html
+- https://publikationen.bibliothek.kit.edu/1000170314/152752678
+- https://trid.trb.org/View/2731608
+- https://wayve.ai/wp-content/uploads/2025/03/GAIA_2_Technical_Report.pdf

@@ -94,3 +94,4 @@
 17. [17_shrp2_triggers_and_can_reproduction.md](17_shrp2_triggers_and_can_reproduction.md) — SHRP2 運動学トリガと CAN での再現（B-04。新規抜粋21件、既出再掲3件。12行のトリガ表は一次未確認。微分ノイズ・車輪スリップ・取付軸ずれなど再現上の注意を整理）
 18. [18_pedal_misapplication_low_speed.md](18_pedal_misapplication_low_speed.md) — 低速域・ペダル踏み間違いの規制（UN R175・国交省2026年1月改正）と、アクセル開度・操作速度・車速・シフトによるセンサ無し型検知（B-05。新規抜粋24件、全て検索抜粋。数値条件は原文未確認）
 19. [19_intersection_precursors_can_only.md](19_intersection_precursors_can_only.md) — 交差点・出会い頭・右左折事故の予兆を自車CANで捉える研究（B-06。新規抜粋18件、全て検索抜粋）。CANのみで交差点を判定した研究は未発見。SHRP2 系は地図・アノテーション前提
+20. [20_world_model_and_distillation_for_can_only.md](20_world_model_and_distillation_for_can_only.md) — E2E・ワールドモデル技術のCANのみ予兆検知への転用（B-07。新規抜粋34件。映像→CANの蒸留で運転リスクを扱う直接研究は未発見。COMODO型蒸留・予測誤差=危険度・ego動力学残差が転用候補）
