@@ -32,6 +32,8 @@
 
 16. [16_lead_vehicle_signals_by_vehicle.md](16_lead_vehicle_signals_by_vehicle.md) — 先行車情報（レーダ/ACC）が CAN に出る車種の整理（30件：新規本文24／抜粋6）。距離・相対速度の物理量は Toyota・GM・Mazda・Ford・Hyundai・Honda Nidec にあり、VW・Tesla は段階フラグ／ECU算出TTC中心。OBD での可視性を車種別に明記した資料は未発見。J1939 は ACC1（PGN 65135）に距離・速度・FCW
 
+21. [21_cross_vehicle_adaptation_for_can.md](21_cross_vehicle_adaptation_for_can.md) — CAN信号の車種間ドメイン適応・転移学習（B-08。31件：新規本文0／抜粋のみ31）。事故予兆のCANのみ車種間転移は未発見。IDS中心。信号同定・パラメータ推定・時系列UDAを整理
+
 ### 運用ファイル（重複調査の防止とタスク管理）
 
 - [COVERAGE.md](COVERAGE.md) — 調査済み論点の網羅表。新しい調査の前に必ず読む

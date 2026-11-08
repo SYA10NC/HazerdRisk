@@ -3,11 +3,13 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 649
+- ユニークURL数: 686
 - 複数ファイルで重複: 36
 
-## news/2026-11.md（26件）
+## news/2026-11.md（29件）
 
+- https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
+- https://arxiv.org/abs/2404.05723
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
@@ -26,6 +28,7 @@
 - https://mlit.go.jp/report/press/jidosha10_hh_000330.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000353.html
+- https://mlit.go.jp/report/press/jidosha10_hh_000359.html
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://public-inspection.federalregister.gov/2026-10363.pdf
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
@@ -752,3 +755,40 @@
 - https://publikationen.bibliothek.kit.edu/1000170314/152752678
 - https://trid.trb.org/View/2731608
 - https://wayve.ai/wp-content/uploads/2025/03/GAIA_2_Technical_Report.pdf
+
+## research/21_cross_vehicle_adaptation_for_can.md（34件）
+
+- https://aminer.org/pub/65cf7f37939a5f4082c709b6/an-innovative-generalization-method-for-data-driven-models-of-steering-feedback-torque
+- https://arxiv.org/abs/1902.08956
+- https://arxiv.org/abs/2201.11812
+- https://arxiv.org/abs/2203.08321
+- https://arxiv.org/abs/2207.10814
+- https://arxiv.org/abs/2302.03133
+- https://arxiv.org/abs/2312.11976
+- https://arxiv.org/abs/2312.12276
+- https://arxiv.org/abs/2402.13233
+- https://arxiv.org/abs/2507.16354
+- https://arxiv.org/abs/2604.11854
+- https://arxiv.org/abs/2604.25435
+- https://arxiv.org/abs/2607.23822
+- https://bohrium.com/paper-details/vehicles-driving-behavior-recognition-based-on-transfer-learning/864976224756170760-2452
+- https://cir.nii.ac.jp/crid/1050285299827575040
+- https://dblp.uni-trier.de/rec/conf/iecon/MavikumbureCWVPM23.html
+- https://digitalcommons.calpoly.edu/theses/3272
+- https://docs.comma.ai/_modules/selfdrive/controls/lib/vehicle_model.html
+- https://docs.comma.ai/_modules/selfdrive/locationd/paramsd.html
+- https://fugumt.com/fugumt/paper_check/2510.17250v1_enmode
+- https://hal-iogs.archives-ouvertes.fr/ERA-UTT/hal-04439575v1
+- https://huggingface.co/papers/2607.23822
+- https://jstage.jst.go.jp/article/jsaeronbun/41/6/41_6_1231/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsceiii/6/3/6_1038/_article/-char/en
+- https://jstage.jst.go.jp/article/tjsai/37/5/37_37-5_C-M42/_article/-char/en
+- https://mtl.t.u-tokyo.ac.jp/site_archives/sakai_irie/archives/researches/882
+- https://opendbc-site.pages.dev/cars/honda-cr-v-2015-16
+- https://opendbc-site.pages.dev/cars/rivian-r1s-2025
+- https://osti.gov/biblio/1783432
+- https://papers.phmsociety.org/index.php/phme/article/view/4012
+- https://preprints.org/manuscript/202609.1557
+- https://shadow.merl.com/publications/docs/TR2021-060.pdf
+- https://themoonlight.io/review/a-prototypical-network-with-an-attention-based-encoder-for-drivers-identification-application
+- https://web-material3.yokogawa.com/19/29622/files/rd-tr-r06301-004.pdf
