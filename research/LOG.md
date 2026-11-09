@@ -14,3 +14,4 @@
 - 2026-11-06 | 19_intersection_precursors_can_only.md | ソース18件（0/18/0＝新規本文/新規抜粋/既出） | news 4件 | B-06。CANのみで交差点を判定した研究は未発見。SHRP2 衝突時速度は低め（抜粋）。全て抜粋のみ(I-17)
 - 2026-11-07 | 20_world_model_and_distillation_for_can_only.md | ソース34件（0/34/0＝新規本文/新規抜粋/既出） | news 3件 | B-07。映像→CAN蒸留で運転リスクを扱う直接研究は未発見。COMODO型蒸留・予測誤差=危険度・ego動力学残差が転用候補。全て抜粋のみ(I-19)
 - 2026-11-08 | 21_cross_vehicle_adaptation_for_can.md | ソース31件（0/31/0＝新規本文/新規抜粋/既出） | news 4件 | B-08。事故予兆のCANのみ車種間転移は未発見。IDS中心。ゼロショット困難との2026プレプリント、物理量化・信号同定・時系列UDAを整理。全て抜粋のみ(I-20)
+- 2026-11-09 | 22_survival_hazard_models_for_driving.md | ソース28件（0/27/1＝新規本文/新規抜粋/既出） | news 3件 | B-09。CANのみ×深層生存×事故予兆は未発見。秒スケールはNTT系の映像入力のみ。日〜年はCox/Weibull。全て抜粋のみ(I-22)

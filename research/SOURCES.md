@@ -3,11 +3,12 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 686
-- 複数ファイルで重複: 36
+- ユニークURL数: 716
+- 複数ファイルで重複: 37
 
-## news/2026-11.md（29件）
+## news/2026-11.md（32件）
 
+- https://abdynamics.com/?p=16328
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
 - https://arxiv.org/abs/2404.05723
 - https://arxiv.org/abs/2601.06327
@@ -18,6 +19,7 @@
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
+- https://driveteslacanada.ca/news/nhtsa-escalates-tesla-fsd-investigation-over-low-visibility-detection-concerns
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
@@ -25,6 +27,7 @@
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
+- https://mlit.go.jp/report/press/jidosha07_hh_000575.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000330.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000353.html
@@ -792,3 +795,34 @@
 - https://shadow.merl.com/publications/docs/TR2021-060.pdf
 - https://themoonlight.io/review/a-prototypical-network-with-an-attention-based-encoder-for-drivers-identification-application
 - https://web-material3.yokogawa.com/19/29622/files/rd-tr-r06301-004.pdf
+
+## research/22_survival_hazard_models_for_driving.md（28件）
+
+- https://arxiv.org/abs/1606.00931
+- https://arxiv.org/abs/2108.05710
+- https://arxiv.org/abs/2303.08007
+- https://arxiv.org/abs/2402.16046
+- https://arxiv.org/abs/2405.01614
+- https://arxiv.org/abs/2410.01086
+- https://arxiv.org/abs/2503.13558
+- https://arxiv.org/abs/2511.19952
+- https://c2smarter.engineering.nyu.edu/wp-content/uploads/2023/10/IEEE_ITSC_YiyuanLei.pdf
+- https://cir.nii.ac.jp/crid/1050850722269275648
+- https://ipsj.ixsq.nii.ac.jp/records/209071/export/bibtex
+- https://jstage.jst.go.jp/article/jappstat/47/2-3/47_71/_article/-char/ja
+- https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi...........d90c130720cc73c91478f4f6c84d616a
+- https://koreascience.or.kr/article/JAKO201332479509850.pdf
+- https://mdpi.com/2076-3417/14/20/9317
+- https://mdpi.com/2227-9091/4/2/10
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC6123587
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC9417457
+- https://ojs.aaai.org/index.php/AAAI/article/view/11842
+- https://papers.phmsociety.org/index.php/phme/article/view/3974
+- https://par.nsf.gov/biblio/10205458-near-crash-characteristics-among-risky-drivers-using-shrp2-naturalistic-driving-study
+- https://peerj.com/articles/6257
+- https://pubmed.gov/25218977
+- https://read.qxmd.com/read/30951460/dynamic-deephit-a-deep-learning-approach-for-dynamic-survival-analysis-with-competing-risks-based-on-longitudinal-data
+- https://recercat.cat/handle/2445/106566
+- https://research.chalmers.se/en/publication/538666
+- https://research.monash.edu/en/publications/identifying-factors-affecting-driver-takeover-time-and-crash-risk
+- https://scikit-survival.readthedocs.io/en/latest/user_guide/evaluating-survival-models.html
