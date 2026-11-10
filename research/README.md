@@ -98,3 +98,4 @@
 19. [19_intersection_precursors_can_only.md](19_intersection_precursors_can_only.md) — 交差点・出会い頭・右左折事故の予兆を自車CANで捉える研究（B-06。新規抜粋18件、全て検索抜粋）。CANのみで交差点を判定した研究は未発見。SHRP2 系は地図・アノテーション前提
 20. [20_world_model_and_distillation_for_can_only.md](20_world_model_and_distillation_for_can_only.md) — E2E・ワールドモデル技術のCANのみ予兆検知への転用（B-07。新規抜粋34件。映像→CANの蒸留で運転リスクを扱う直接研究は未発見。COMODO型蒸留・予測誤差=危険度・ego動力学残差が転用候補）
 22. [22_survival_hazard_models_for_driving.md](22_survival_hazard_models_for_driving.md) — 生存分析・ハザードモデルの運転データ応用（B-09。新規抜粋27件、既出1件、全て検索抜粋）。CANのみ×深層生存×事故予兆は未発見。秒スケールのニューラルハザードは映像＋位置入力（NTT系）のみ。離散時間ハザードと校正指標を L3/L6 の候補とした
+23. [23_older_and_novice_drivers_can_detection.md](23_older_and_novice_drivers_can_detection.md) — 高齢・初心者の運転特性とCANでの検出（B-10。新規抜粋のみ34件。CANのみで年齢層を推定した研究は未発見）

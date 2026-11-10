@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 716
+- ユニークURL数: 757
 - 複数ファイルで重複: 37
 
-## news/2026-11.md（32件）
+## news/2026-11.md（34件）
 
 - https://abdynamics.com/?p=16328
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
@@ -23,6 +23,7 @@
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
+- https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
@@ -39,6 +40,7 @@
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 - https://thebrakereport.com/nhtsa-expands-probe-into-daimler-trucks-automatic-emergency-braking-errors
+- https://trid.trb.org/View/2716664
 - https://trid.trb.org/View/2736805
 
 ## research/01_can_driving_behavior_detection.md（32件）
@@ -826,3 +828,46 @@
 - https://research.chalmers.se/en/publication/538666
 - https://research.monash.edu/en/publications/identifying-factors-affecting-driver-takeover-time-and-crash-risk
 - https://scikit-survival.readthedocs.io/en/latest/user_guide/evaluating-survival-models.html
+
+## research/23_older_and_novice_drivers_can_detection.md（40件）
+
+- https://arxiv.org/abs/2501.06918
+- https://bestcarweb.jp/feature/column/422080?prd=2
+- https://cdc.gov/teen-drivers/risk-factors
+- https://chugaiigaku.jp/upfile/browse/browse2691.pdf
+- https://curve.carleton.ca/c9191d8e-0ea2-4cf0-92c3-fb8d191afae5
+- https://engineering.columbia.edu/news/driving-behaviors-harbor-early-signals-of-dementia
+- https://fhwa.dot.gov/publications/research/safety/17016/005.cfm
+- https://frontiersin.org/articles/10.3389/fnagi.2025.1462951/full
+- https://global.honda/jp/safetyinfo/senior/senior03.html
+- https://go.fisita.com/store/papers/FISITA2010/F2010E015
+- https://gov.uk/government/publications/telematics-research-impact-on-young-and-novice-driver-behaviour
+- https://iihs.org/topics/fatality-statistics/detail/teenagers
+- https://iihs.org/topics/teenagers
+- https://jstage.jst.go.jp/article/jsaereview/30/4/30_4_461/_article/-char/en
+- https://jstage.jst.go.jp/article/jsmetld/2024.33/0/2024.33_PS2-4/_article/-char/ja
+- https://mdpi.com/2313-576X/3/4/29
+- https://medinform.jmir.org/2026/1/e83622
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC11581603
+- https://npa.go.jp/bureau/traffic/bunseki/kamihanki/060725R06kamihanki.pdf
+- https://npa.go.jp/publications/statistics/koutsuu/jiko/R06bunseki.pdf
+- https://openaccess.city.ac.uk/id/eprint/22515/1/acceptedNAAJ-1648.R1-withnames30_5_2019.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12192173
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC1942043
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC2563434
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3556237
+- https://pref.aichi.jp/police/koutsu/topics/images/koureiunten.pdf
+- https://pref.gifu.lg.jp/uploaded/attachment/435945.pdf
+- https://pref.ibaraki.jp/kenkei/a02_traffic/archives/white_paper/documents/29.pdf
+- https://pref.kanagawa.jp/documents/75843/r6-1-4.pdf
+- https://pubs.lib.uiowa.edu/driving/article/id/28342
+- https://researchdiscovery.drexel.edu/esploro/outputs/graduate/Classifying-human-driving-behavior-via-deep/991014632393404721
+- https://rosap.ntl.bts.gov/view/dot/58549
+- https://rosap.ntl.bts.gov/view/dot/68204/dot_68204_DS1.pdf
+- https://swov.nl/nl/publicatie/learning-characteristic-driving-operations-curve-sections-reflect-drivers-skill-levels
+- https://tech.jsae.or.jp/paperinfo/ja/content/jt202203.15
+- https://trid.trb.org/View/2714573
+- https://vtti.vt.edu/PDFs/NDRS-2012-presentations/Simons-Morton%20G-Force%20Analyses%208-22-12.pdf
+- https://www8.cao.go.jp/koutu/kihon/keikaku10/senmon/k_2/pdf/s3_6.pdf
+- https://www8.cao.go.jp/koutu/taisaku/r07kou_haku/pdf/gaiyo.pdf
+- https://www8.cao.go.jp/koutu/taisaku/r08kou_haku/zenbun/genkyo/topics/topic_2.html
