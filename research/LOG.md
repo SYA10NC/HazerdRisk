@@ -16,3 +16,4 @@
 - 2026-11-08 | 21_cross_vehicle_adaptation_for_can.md | ソース31件（0/31/0＝新規本文/新規抜粋/既出） | news 4件 | B-08。事故予兆のCANのみ車種間転移は未発見。IDS中心。ゼロショット困難との2026プレプリント、物理量化・信号同定・時系列UDAを整理。全て抜粋のみ(I-20)
 - 2026-11-09 | 22_survival_hazard_models_for_driving.md | ソース28件（0/27/1＝新規本文/新規抜粋/既出） | news 3件 | B-09。CANのみ×深層生存×事故予兆は未発見。秒スケールはNTT系の映像入力のみ。日〜年はCox/Weibull。全て抜粋のみ(I-22)
 - 2026-11-10 | 23_older_and_novice_drivers_can_detection.md | ソース36件（0/34/2＝新規本文/新規抜粋/既出） | news 2件 | B-10。CANのみで年齢層・熟練度を推定した研究は未発見。警報データでの高齢者判別・MCI判別・操作量熟練度分類が近い例。全て抜粋のみ(I-24)
+- 2026-11-11 | 24_commercial_vehicle_j1939_and_fleet_safety.md | ソース29件（0/29/0＝新規本文/新規抜粋/既出） | news 3件 | B-11。AEBS1/2 の PGN は未確定（EBC1/CCVS1/EBC5・AEBS2 SPN のみ）。国内デジタコ閾値は非公開のまま。全て抜粋のみ(I-01)

@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 757
+- ユニークURL数: 789
 - 複数ファイルで重複: 37
 
-## news/2026-11.md（34件）
+## news/2026-11.md（37件）
 
 - https://abdynamics.com/?p=16328
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
@@ -28,6 +28,7 @@
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
+- https://mlit.go.jp/report/press/jidosha07_hh_000571.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000575.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000330.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000346.html
@@ -36,10 +37,12 @@
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://public-inspection.federalregister.gov/2026-10363.pdf
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
+- https://static.nhtsa.gov/odi/inv/2025/INIM-EA25006-51191.pdf
 - https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 - https://thebrakereport.com/nhtsa-expands-probe-into-daimler-trucks-automatic-emergency-braking-errors
+- https://themoonlight.io/review/the-context-of-crash-occurrence-a-complexity-infused-approach-integrating-semantic-contextual-and-kinematic-features
 - https://trid.trb.org/View/2716664
 - https://trid.trb.org/View/2736805
 
@@ -871,3 +874,35 @@
 - https://www8.cao.go.jp/koutu/kihon/keikaku10/senmon/k_2/pdf/s3_6.pdf
 - https://www8.cao.go.jp/koutu/taisaku/r07kou_haku/pdf/gaiyo.pdf
 - https://www8.cao.go.jp/koutu/taisaku/r08kou_haku/zenbun/genkyo/topics/topic_2.html
+
+## research/24_commercial_vehicle_j1939_and_fleet_safety.md（29件）
+
+- https://bestcarweb.jp/fullload/1628465/2
+- https://csselectronics.com/pages/j1939-pgn-list
+- https://csselectronics.com/products/j1939-dbc-file
+- https://dsp.hatz.com/images/docu-files/SPNFMI-CAN/H50_CAN-Protokoll.pdf
+- https://fmcsa.dot.gov/safety/research-and-analysis/large-truck-crash-causation-study-analysis-brief
+- https://fmcsa.dot.gov/sites/fmcsa.dot.gov/files/2024-12/Commercial%20Motor%20Vehicle%20Crash%20Data%20Overview%20508.pdf
+- https://gmupfitter.com/wp-content/uploads/2024/05/UVM-J1939-Information-List.pdf
+- https://isobus.net/isobus/pGNAndSPN/14346?type=PGN
+- https://isobus.net/isobus/pGNAndSPN/17157?type=PGN
+- https://isobus.net/isobus/pGNAndSPN/1966?type=PGN
+- https://kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files
+- https://levo.or.jp/wp-content/uploads/unkou20260701.pdf
+- https://logi-today.com/420/amp
+- https://logi-today.com/984747
+- https://mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/dl/0912-2d.pdf
+- https://mlit.go.jp/common/001173873.pdf
+- https://mlit.go.jp/jidosha/anzen/03safety/resourse/data/seminar2024_2-2.pdf
+- https://mlit.go.jp/jidosha/content/001990603.pdf
+- https://mlit.go.jp/jidosha/content/S151.pdf
+- https://mlit.go.jp/jidosha/jidosha_tk2_000059.html
+- https://mlit.go.jp/report/press/content/001326946.pdf
+- https://mlit.go.jp/report/press/content/001579807.pdf
+- https://mlit.go.jp/report/press/content/001579809.pdf
+- https://nhtsa.gov/press-releases/heavy-vehicles-automatic-emergency-braking-proposed-rule
+- https://nmfta.org/wp-content/uploads/2026/04/Heavy-Vehicle-Networking-Using-SAE-J1939.pdf
+- https://saemobilus.sae.org/content/J1939DA_201510
+- https://scribd.com/document/803127533/j1939da-Digital-Annex-of-Serial-Control-and-Communication-2015-08
+- https://techpub.prevostcar.com/content/media/18722/view
+- https://teltonika-gps.com/ja/blog/webinar-takeaways-truck-and-trailer-insights-directly-from-the-ecu
