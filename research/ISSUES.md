@@ -66,6 +66,10 @@
 - 事実: 2026-11-01 の実行でも arxiv.org への WebFetch が名前解決に失敗した（I-01 継続）。14 の38件はすべて抜粋のみ
 - 対処: I-01 解消後に B-16 で主要6件の本文確認を行う
 
+### I-25 [環境] I-01 継続: unece.org・eur-lex.europa.eu・www.mlit.go.jp・nhtsa.gov も WebFetch 不可 — 要オーナー対応
+- 事実: 2026-11-12 の実行で arxiv.org・unece.org・eur-lex.europa.eu・www.mlit.go.jp が ENOTFOUND。25 は全て抜粋のみ
+- 対処: 上記ホストを許可ドメインに追加（I-01 に統合してよい）
+
 ## 完了
 
 - I-02 [環境] main への push が 403（Claude GitHub App の権限なし）— 完了 2026-11-01。オーナーが権限を直し、同日の再 push が成功した（commit d256ae2）

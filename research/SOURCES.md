@@ -3,18 +3,20 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 789
-- 複数ファイルで重複: 37
+- ユニークURL数: 826
+- 複数ファイルで重複: 38
 
-## news/2026-11.md（37件）
+## news/2026-11.md（40件）
 
 - https://abdynamics.com/?p=16328
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
 - https://arxiv.org/abs/2404.05723
+- https://arxiv.org/abs/2509.02614
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
 - https://autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-tesla-mobileye-aeva-ouster-pony-ai-nvidia-stellantis-bolt-wayve-volkswagen-einride-valeo-aptiv-tier-iv
+- https://autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
@@ -24,6 +26,7 @@
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
+- https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
@@ -906,3 +909,41 @@
 - https://scribd.com/document/803127533/j1939da-Digital-Annex-of-Serial-Control-and-Communication-2015-08
 - https://techpub.prevostcar.com/content/media/18722/view
 - https://teltonika-gps.com/ja/blog/webinar-takeaways-truck-and-trailer-insights-directly-from-the-ecu
+
+## research/25_aftermarket_devices_and_unr155_r156.md（35件）
+
+- https://automotive-iq.com/cybersecurity/articles/annex-5-was-written-for-a-car-your-fleet-isnt-one。事実
+- https://autorentalnews.com/157211/will-cybersecurity-concerns-limit-obdii-access。事実
+- https://bsrweb.jp/article/792297。事実
+- https://docs.autopi.io/developer_guides/setting-up-doip/。事実
+- https://en.wikipedia.org/wiki/Unified_Diagnostic_Services
+- https://eur-lex.europa.eu/eli/reg/2025/5/oj/eng
+- https://eur-lex.europa.eu/eli/reg_del/2021/1244/oj。事実
+- https://eur-lex.europa.eu/eli/reg_del/2026/699/oj/eng。事実
+- https://fenderbender.com/running-a-shop/operations/article/33029713/making-sense-of-chryslers-secure-gateway-module
+- https://globalautoregs.com/agendas/11471。事実
+- https://globalautoregs.com/documents/42898
+- https://globalautoregs.com/documents/42949。事実
+- https://hella-gutmann.com/en/sermi。事実
+- https://hunton.com/privacy-and-cybersecurity-law-blog/nhtsa-releases-new-automobile-cybersecurity-best-practices。事実
+- https://igarr.com/2025/11/07/eu-updates-on-access-to-vehicle-on-board-diagnostics-obd-requirements/。事実
+- https://iso.org/standard/57317.html
+- https://kuruma-news.jp/post/825582。事実
+- https://legislation.gov.uk/eur/2018/858/article/65?view=plain。事実
+- https://lobbyregister.bundestag.de/media/af/3b/691967/Stellungnahme-Gutachten-SG2602090015.pdf。事実
+- https://mlit.go.jp/jidosha/OBD_Inspection_System.html
+- https://mlit.go.jp/jidosha/content/001844079.pdf。事実
+- https://mlit.go.jp/jidosha/content/001867805.pdf。事実
+- https://mlit.go.jp/jidosha/content/B124.pdf。事実
+- https://mlit.go.jp/jidosha/content/OBDkensa-regulations_S04.pdf
+- https://mlit.go.jp/report/press/jidosha10_hh_000242.html。事実
+- https://nhtsa.gov/sites/nhtsa.dot.gov/files/documents/812333_cybersecurityformodernvehicles.pdf
+- https://pyudskit.readthedocs.io/en/latest/concepts/security-access/。事実
+- https://repairerdrivennews.com/2023/10/09/fca-gateway-unlock-now-available-on-7111-tablet
+- https://saemobilus.sae.org/standards/isosae21434-road-vehicles-cybersecurity-engineering。事実
+- https://scan.netsecurity.ne.jp/article/2015/08/14/37098.html
+- https://scan.netsecurity.ne.jp/article/2016/04/11/38352.html。事実
+- https://sip-adus.go.jp/evt/workshop2020/file/cs/10CS_04J_Kawana.pdf。事実
+- https://sip-adus.go.jp/rd/rddata/rd06/224.pdf。事実
+- https://vehicle-certification-agency.gov.uk/connected-and-automated-vehicles/cyber-security-and-software-updating/。事実
+- https://youcanic.com/fca-security-gateway

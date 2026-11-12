@@ -100,3 +100,5 @@
 22. [22_survival_hazard_models_for_driving.md](22_survival_hazard_models_for_driving.md) — 生存分析・ハザードモデルの運転データ応用（B-09。新規抜粋27件、既出1件、全て検索抜粋）。CANのみ×深層生存×事故予兆は未発見。秒スケールのニューラルハザードは映像＋位置入力（NTT系）のみ。離散時間ハザードと校正指標を L3/L6 の候補とした
 23. [23_older_and_novice_drivers_can_detection.md](23_older_and_novice_drivers_can_detection.md) — 高齢・初心者の運転特性とCANでの検出（B-10。新規抜粋のみ34件。CANのみで年齢層を推定した研究は未発見）
 24. [24_commercial_vehicle_j1939_and_fleet_safety.md](24_commercial_vehicle_j1939_and_fleet_safety.md) — 商用車 J1939 の安全関連 PGN/SPN、国内デジタコの法定要件、事業用事故統計（B-11。新規抜粋のみ29件。AEBS1/2 の PGN は未確定、デジタコ閾値は非公開のまま）
+
+25. [25_aftermarket_devices_and_unr155_r156.md](25_aftermarket_devices_and_unr155_r156.md) — 受信専用の後付けCAN機器と UN R155/R156・21434・OBDアクセス規制・日本の保安基準（B-12。新規抜粋のみ26項目、既出2件）。後付け機器を直接扱う条項・公式解釈は未発見。部品承認は構想段階。受信専用の担保はCAN TX遮断が候補【推察】
