@@ -3,13 +3,15 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 826
-- 複数ファイルで重複: 38
+- ユニークURL数: 866
+- 複数ファイルで重複: 39
 
-## news/2026-11.md（40件）
+## news/2026-11.md（43件）
 
 - https://abdynamics.com/?p=16328
+- https://abdynamics.com/?p=18562
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
+- https://aiweekly.co/alerts/nhtsa-probes-commaai-hands-off-tech-after-two-fatal-crashes
 - https://arxiv.org/abs/2404.05723
 - https://arxiv.org/abs/2509.02614
 - https://arxiv.org/abs/2601.06327
@@ -45,6 +47,7 @@
 - https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk
 - https://tflcar.com/2025/01/nhtsa-honda-aeb-investigation-expanded-news
 - https://thebrakereport.com/nhtsa-expands-probe-into-daimler-trucks-automatic-emergency-braking-errors
+- https://thebrakereport.com/tesla-model-y-clears-nhtsas-new-brake-centric-adas-tests
 - https://themoonlight.io/review/the-context-of-crash-occurrence-a-complexity-infused-approach-integrating-semantic-contextual-and-kinematic-features
 - https://trid.trb.org/View/2716664
 - https://trid.trb.org/View/2736805
@@ -947,3 +950,44 @@
 - https://sip-adus.go.jp/rd/rddata/rd06/224.pdf。事実
 - https://vehicle-certification-agency.gov.uk/connected-and-automated-vehicles/cyber-security-and-software-updating/。事実
 - https://youcanic.com/fca-security-gateway
+
+## research/26_japan_near_miss_db_and_dashcam_data.md（38件）
+
+- https://aioinissaydowa.co.jp/corporate/about/news/pdf/2023/news_2023032301136.pdf
+- https://arxiv.org/abs/1804.02555
+- https://car.watch.impress.co.jp/docs/news/080336.html
+- https://eetimes.itmedia.co.jp/ee/articles/1911/18/news036.html
+- https://fot-net.eu/download/international_workshops/tokyo/rt3_20131014_fotnet_pr_tuat_raksincharoensak.pdf
+- https://hospital.med.gunma-u.ac.jp/1_web/wp-content/uploads/2026/03/press_R080326.pdf
+- https://it.impress.co.jp/articles/-/22525
+- https://itarda.or.jp/assets/outline/disclosure/2020keikaku-4a007a6e2a769e315b67b707431badd9d86a5c2fb3e19d7d7a8a02d19bb4eb64.pdf
+- https://itarda.or.jp/members/agree
+- https://itarda.or.jp/outline/faq
+- https://itarda.or.jp/tool
+- https://jstage.jst.go.jp/article/jsmetld/2011.20/0/2011.20_19/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsmetld/2022.31/0/2022.31_TL4-2/_article/-char/en
+- https://jtekt.co.jp/e/engineering-journal/assets/1001/1001e_08.pdf
+- https://jtekt.co.jp/engineering-journal/assets/1001/1001_08.pdf
+- https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-26350455/26350455seika.pdf
+- https://link.springer.com/chapter/10.1007/978-3-030-47436-2_54
+- https://mlit.go.jp/common/000140127.pdf
+- https://mlit.go.jp/jidosha/anzen/03driverec/resourse/data/dora-houkoku17.pdf
+- https://mlit.go.jp/jidosha/anzen/03driverec/resourse/data/dora-houkoku2.pdf
+- https://nauto.com/blog/improving-commercial-fleet-safety-in-japan
+- https://newsroom.mazda.com/ja/publicity/release/2026/202603/260323a.pdf
+- https://nhtsa.gov/sites/nhtsa.gov/files/accidents_and_near-misses_analysis_by_using_vd-rs_in_fleet_test.pdf
+- https://nilim.go.jp/english/annual/annual2010/27.pdf
+- https://npa.go.jp/publications/statistics/index.html
+- https://pref.aichi.jp/uploaded/attachment/483546.pdf
+- https://saemobilus.sae.org/content/2011-01-0810
+- https://sip-adus.go.jp/file/citizens2018/citizens2018_05.pdf
+- https://staff.itee.uq.edu.au/jaga/proceedings/percomworkshops2020/papers/p518-akikawa.pdf
+- https://tandfonline.com/doi/abs/10.1080/02664763.2021.1962263
+- https://tech.jsae.or.jp/paperinfo/ja/content/conf2021-02.14
+- https://tech.jsae.or.jp/paperinfo/ja/content/sae2022-01.720
+- https://watch.impress.co.jp/docs/news/1285743.html
+- https://web.tuat.ac.jp/~nagaimu/kenkyu_its1.html
+- https://web.tuat.ac.jp/~smrc/en/about.html
+- https://web.tuat.ac.jp/~smrc/en/index.html
+- https://web.tuat.ac.jp/~smrc/oldSMRC/drcenter_eng.html
+- https://web.tuat.ac.jp/~smrc/oldSMRC/pdf/Driverecorder.pdf

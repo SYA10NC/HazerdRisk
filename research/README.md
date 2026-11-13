@@ -102,3 +102,4 @@
 24. [24_commercial_vehicle_j1939_and_fleet_safety.md](24_commercial_vehicle_j1939_and_fleet_safety.md) — 商用車 J1939 の安全関連 PGN/SPN、国内デジタコの法定要件、事業用事故統計（B-11。新規抜粋のみ29件。AEBS1/2 の PGN は未確定、デジタコ閾値は非公開のまま）
 
 25. [25_aftermarket_devices_and_unr155_r156.md](25_aftermarket_devices_and_unr155_r156.md) — 受信専用の後付けCAN機器と UN R155/R156・21434・OBDアクセス規制・日本の保安基準（B-12。新規抜粋のみ26項目、既出2件）。後付け機器を直接扱う条項・公式解釈は未発見。部品承認は構想段階。受信専用の担保はCAN TX遮断が候補【推察】
+26. [26_japan_near_miss_db_and_dashcam_data.md](26_japan_near_miss_db_and_dashcam_data.md) — 日本のヒヤリハットDB・ドラレコ・事故データの入手条件と収録信号（B-13。新規抜粋35件、既出1件、全て抜粋のみ。公開DLは未確認、入手は共同研究・会員制・審査付き。アクセル・操舵・ADASフラグは未確認）
