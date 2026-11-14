@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 866
+- ユニークURL数: 887
 - 複数ファイルで重複: 39
 
-## news/2026-11.md（43件）
+## news/2026-11.md（48件）
 
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
@@ -17,6 +17,7 @@
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
+- https://autoconnectedcar.com/2026/03/autonomous-self-driving-vehicle-news-mobileye-einride-waymo-autobrains-pony-ai-verne-uber
 - https://autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-tesla-mobileye-aeva-ouster-pony-ai-nvidia-stellantis-bolt-wayve-volkswagen-einride-valeo-aptiv-tier-iv
 - https://autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
@@ -28,10 +29,12 @@
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
 - https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
+- https://evwire.com/p/waymo-safety-update-220-million-miles-94-percent-fewer-crashes
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
+- https://kurs.com.ua/en/novost/1481467-271-mln-mil-bez-vodija-kompanija-waymo-zajavila-sho-yiyi-robotaksi-potrapljajut-u-tjazhki-avariyi-na-95-ridshe-avtomobiliv-z-vodijami
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000571.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000575.html
@@ -40,7 +43,9 @@
 - https://mlit.go.jp/report/press/jidosha10_hh_000353.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000359.html
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
+- https://paultan.org/2025/11/28/euro-ncap-2026-protocol-targets-annoying-adas-warnings-interventions-physical-buttons-availability
 - https://public-inspection.federalregister.gov/2026-10363.pdf
+- https://smarteye.se/blog/driver-monitoring-euro-ncap-2026
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
 - https://static.nhtsa.gov/odi/inv/2025/INIM-EA25006-51191.pdf
 - https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough
@@ -991,3 +996,22 @@
 - https://web.tuat.ac.jp/~smrc/en/index.html
 - https://web.tuat.ac.jp/~smrc/oldSMRC/drcenter_eng.html
 - https://web.tuat.ac.jp/~smrc/oldSMRC/pdf/Driverecorder.pdf
+
+## research/27_japanese_driving_foundation_and_distillation.md（16件）
+
+- https://arxiv.org/abs/2412.05337
+- https://automotiveworld.com/news/tier-iv-unveils-end-to-end-architecture-for-level-4-autonomy-to-be-demonstrated-across-50-locations-nationwide
+- https://cir.nii.ac.jp/crid/1390006050801747200
+- https://cir.nii.ac.jp/crid/1390282679589564160?lang=en
+- https://dream2assist.github.io
+- https://global.honda/jp/safety/ITS/2025/pdf/04_Honda-Driver-Coaching-Service_1.pdf
+- https://global.honda/jp/safety/ITS/2025/pdf/05_State-Estimation-Technology_1.pdf
+- https://global.nissannews.com/ja-JP/releases/next-gen-propilot-technology
+- https://huggingface.co/datasets/turing-motors/CoVLA-Dataset
+- https://ipsj.ixsq.nii.ac.jp/record/191923/files/IPSJ-DPSWS2018014.pdf
+- https://jstage.jst.go.jp/article/kikaic/79/800/79_1003/_article/-char/ja
+- https://nedo.go.jp/content/800036443.pdf
+- https://pubdb.vislab.is.i.nagoya-u.ac.jp/~murase/pdf/952-pdf.pdf
+- https://tech.jsae.or.jp/paperinfo/en/content/p202202.247
+- https://tech.jsae.or.jp/paperinfo/ja/content/p202102.053
+- https://woven.toyota/en/news/20260422

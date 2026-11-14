@@ -70,6 +70,9 @@
 - 事実: 2026-11-12 の実行で arxiv.org・unece.org・eur-lex.europa.eu・www.mlit.go.jp が ENOTFOUND。25 は全て抜粋のみ
 - 対処: 上記ホストを許可ドメインに追加（I-01 に統合してよい）
 
+### I-30 [環境] 2026-11-14 実行で eur-lex・jstage・ipsj・kaken・global.honda・woven.toyota・nissannews・nedo 等も WebFetch 不可と確認 — 要オーナー対応
+- 事実: arxiv.org に加え、eur-lex.europa.eu（B-14 の一次資料）、jstage、ipsj.ixsq.nii.ac.jp、global.honda 等が名前解決に失敗した。このため B-14・B-15・B-16・B-19・B-20・B-26 を見送り、B-22 を実施した（27 は全16件抜粋のみ）。状態: I-01 と同根。セッションのネットワーク許可ドメインの追加が必要
+
 ## 完了
 
 - I-02 [環境] main への push が 403（Claude GitHub App の権限なし）— 完了 2026-11-01。オーナーが権限を直し、同日の再 push が成功した（commit d256ae2）

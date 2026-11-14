@@ -19,3 +19,4 @@
 - 2026-11-11 | 24_commercial_vehicle_j1939_and_fleet_safety.md | ソース29件（0/29/0＝新規本文/新規抜粋/既出） | news 3件 | B-11。AEBS1/2 の PGN は未確定（EBC1/CCVS1/EBC5・AEBS2 SPN のみ）。国内デジタコ閾値は非公開のまま。全て抜粋のみ(I-01)
 - 2026-11-12 | 25_aftermarket_devices_and_unr155_r156.md | ソース28件（0/26/2＝新規本文/新規抜粋/既出） | news 3件 | B-12。後付け機器を直接扱う R155/保安基準の条項は未発見。部品承認は構想段階。全て抜粋のみ(I-01)
 - 2026-11-13 | 26_japan_near_miss_db_and_dashcam_data.md | ソース36件（0/35/1＝新規本文/新規抜粋/既出） | news 3件 | B-13。公開DLの国内ヒヤリハットDBは未確認。SMRC・ITARDAとも共同研究/審査型。誤検出約70%の記述あり。全て抜粋のみ(I-01)。B-20 は I-01 のため見送り
+- 2026-11-14 | 27_japanese_driving_foundation_and_distillation.md | ソース16件（0/16/0＝新規本文/新規抜粋/既出） | news 5件 | B-22。CANのみの国内資料は未発見。国内各社は映像中心。全て抜粋のみ(I-01)。I-01 のため B-14/15/16/19/20/26 は見送り
