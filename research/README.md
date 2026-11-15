@@ -34,6 +34,8 @@
 
 21. [21_cross_vehicle_adaptation_for_can.md](21_cross_vehicle_adaptation_for_can.md) — CAN信号の車種間ドメイン適応・転移学習（B-08。31件：新規本文0／抜粋のみ31）。事故予兆のCANのみ車種間転移は未発見。IDS中心。信号同定・パラメータ推定・時系列UDAを整理
 
+28. [28_domain_generalization_and_few_shot_adaptation.md](28_domain_generalization_and_few_shot_adaptation.md) — 運転・CAN時系列のドメイン汎化・少数ショット適応（B-23。29件：新規本文0／抜粋のみ29）。CANのみ×未見車種DG／LODOの事故予兆研究は未発見。HAROOD型LODO評価、ドライバー単位MAML・クラスタ割当、テスト時更新、低ランク残差を整理
+
 ### 運用ファイル（重複調査の防止とタスク管理）
 
 - [COVERAGE.md](COVERAGE.md) — 調査済み論点の網羅表。新しい調査の前に必ず読む

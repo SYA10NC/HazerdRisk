@@ -20,3 +20,4 @@
 - 2026-11-12 | 25_aftermarket_devices_and_unr155_r156.md | ソース28件（0/26/2＝新規本文/新規抜粋/既出） | news 3件 | B-12。後付け機器を直接扱う R155/保安基準の条項は未発見。部品承認は構想段階。全て抜粋のみ(I-01)
 - 2026-11-13 | 26_japan_near_miss_db_and_dashcam_data.md | ソース36件（0/35/1＝新規本文/新規抜粋/既出） | news 3件 | B-13。公開DLの国内ヒヤリハットDBは未確認。SMRC・ITARDAとも共同研究/審査型。誤検出約70%の記述あり。全て抜粋のみ(I-01)。B-20 は I-01 のため見送り
 - 2026-11-14 | 27_japanese_driving_foundation_and_distillation.md | ソース16件（0/16/0＝新規本文/新規抜粋/既出） | news 5件 | B-22。CANのみの国内資料は未発見。国内各社は映像中心。全て抜粋のみ(I-01)。I-01 のため B-14/15/16/19/20/26 は見送り
+- 2026-11-15 | 28_domain_generalization_and_few_shot_adaptation.md | ソース29件（0/29/0＝新規本文/新規抜粋/既出） | news 4件 | B-23。CANのみ×未見車種DG/LODOの事故予兆研究は未発見。HAROOD等のLODO評価、MetaFollower等の少数ショット適応を整理。全て抜粋のみ(I-01)。I-01 のため B-14/15/16/19/20/26 は見送り

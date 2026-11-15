@@ -3,13 +3,14 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 887
+- ユニークURL数: 922
 - 複数ファイルで重複: 39
 
-## news/2026-11.md（48件）
+## news/2026-11.md（52件）
 
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
+- https://abdynamics.com/ja/?p=16339
 - https://advocacy.consumerreports.org/wp-content/uploads/2026/05/CR-Comments-to-NHTSA-on-SGO-Extension-5-4-2026.pdf
 - https://aiweekly.co/alerts/nhtsa-probes-commaai-hands-off-tech-after-two-fatal-crashes
 - https://arxiv.org/abs/2404.05723
@@ -24,6 +25,7 @@
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
+- https://clepa.eu/wp-content/uploads/2026/06/Automated-driving-moves-closer-to-deployment-as-UN-adopts-global-safety-framework.pdf
 - https://driveteslacanada.ca/news/nhtsa-escalates-tesla-fsd-investigation-over-low-visibility-detection-concerns
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
@@ -31,6 +33,7 @@
 - https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
 - https://evwire.com/p/waymo-safety-update-220-million-miles-94-percent-fewer-crashes
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
+- https://globalautoregs.com/documents/42464
 - https://globalautoregs.com/meetings/3440
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
@@ -44,6 +47,7 @@
 - https://mlit.go.jp/report/press/jidosha10_hh_000359.html
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://paultan.org/2025/11/28/euro-ncap-2026-protocol-targets-annoying-adas-warnings-interventions-physical-buttons-availability
+- https://pref.ibaraki.jp/kenkei/a02_traffic/archives/blockprint/documents/r7-36.pdf
 - https://public-inspection.federalregister.gov/2026-10363.pdf
 - https://smarteye.se/blog/driver-monitoring-euro-ncap-2026
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
@@ -1015,3 +1019,37 @@
 - https://tech.jsae.or.jp/paperinfo/en/content/p202202.247
 - https://tech.jsae.or.jp/paperinfo/ja/content/p202102.053
 - https://woven.toyota/en/news/20260422
+
+## research/28_domain_generalization_and_few_shot_adaptation.md（31件）
+
+- https://alphaxiv.org/abs/2603.09419
+- https://arxiv.org/abs/2112.02093
+- https://arxiv.org/abs/2208.08002
+- https://arxiv.org/abs/2209.07027
+- https://arxiv.org/abs/2209.11820
+- https://arxiv.org/abs/2305.17965
+- https://arxiv.org/abs/2307.05624
+- https://arxiv.org/abs/2308.02282
+- https://arxiv.org/abs/2308.03295
+- https://arxiv.org/abs/2402.08221
+- https://arxiv.org/abs/2403.05810
+- https://arxiv.org/abs/2403.10052
+- https://arxiv.org/abs/2406.16978
+- https://arxiv.org/abs/2407.09475
+- https://arxiv.org/abs/2410.09681
+- https://arxiv.org/abs/2503.06477
+- https://arxiv.org/abs/2504.11506
+- https://arxiv.org/abs/2505.09074
+- https://arxiv.org/abs/2507.08365
+- https://arxiv.org/abs/2509.06529
+- https://arxiv.org/abs/2509.17354
+- https://arxiv.org/abs/2509.22550
+- https://arxiv.org/abs/2512.10807
+- https://arxiv.org/abs/2512.24075
+- https://iclr.cc/virtual/2026/10013860
+- https://ipsj.ixsq.nii.ac.jp/record/205423/files/IPSJ-Z82-5E-02.pdf
+- https://jsss.copernicus.org/articles/14/119/2025/jsss-14-119-2025.pdf
+- https://jstage.jst.go.jp/article/ieejeiss/141/12/141_1492/_article/-char/ja
+- https://mobile-systems.cl.cam.ac.uk/papers/hasca22.pdf
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC11644556
+- https://shibaura-it.ac.jp/assets/11_ADAM_LSTM_2024_1.pdf
