@@ -16,6 +16,9 @@
 - 対処: クラウド環境の Network access で、上記ホストを Allowed domains に追加するか、より広いアクセスレベルにする（https://code.claude.com/docs/en/cloud-environments#network-access）
 - 完了条件: 上記ホストで WebFetch が成功する。その後 B-15 で 13 の本文再確認を行う
 
+### I-01 追記（2026-11-16）
+- arxiv.org・eur-lex.europa.eu が WebFetch で名前解決失敗のまま。B-14/15/16/19/20/26 は引き続き見送り。
+
 ### I-03 [環境] ルーチンの実行時刻が名前・設定書と食い違う — 要オーナー対応
 - 事実: ルーチン名と docs/ROUTINE_PROMPT.md は「毎日 06:00 JST（cron `0 21 * * *` UTC）」だが、実際のスケジュールは `CRON_TZ=Asia/Tokyo 0 4 * * *`（毎日 04:00 JST）である
 - 対処: どちらに合わせるかをオーナーが決める。決まったらルーチンか ROUTINE_PROMPT.md を直す

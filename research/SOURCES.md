@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 922
+- ユニークURL数: 951
 - 複数ファイルで重複: 39
 
-## news/2026-11.md（52件）
+## news/2026-11.md（54件）
 
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
@@ -26,6 +26,7 @@
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://clepa.eu/wp-content/uploads/2026/06/Automated-driving-moves-closer-to-deployment-as-UN-adopts-global-safety-framework.pdf
+- https://data.consilium.europa.eu/doc/document/ST-14404-2026-ADD-1/es/pdf
 - https://driveteslacanada.ca/news/nhtsa-escalates-tesla-fsd-investigation-over-low-visibility-detection-concerns
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
@@ -38,6 +39,7 @@
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
 - https://kurs.com.ua/en/novost/1481467-271-mln-mil-bez-vodija-kompanija-waymo-zajavila-sho-yiyi-robotaksi-potrapljajut-u-tjazhki-avariyi-na-95-ridshe-avtomobiliv-z-vodijami
+- https://marklines.com/ja/news-editorspicks/20261102
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000571.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000575.html
@@ -1053,3 +1055,33 @@
 - https://mobile-systems.cl.cam.ac.uk/papers/hasca22.pdf
 - https://ncbi.nlm.nih.gov/pmc/articles/PMC11644556
 - https://shibaura-it.ac.jp/assets/11_ADAM_LSTM_2024_1.pdf
+
+## research/29_hazard_calibration_and_alert_threshold_design.md（27件）
+
+- https://ar5iv.labs.arxiv.org/abs/1811.11347
+- https://arxiv.org/abs/2101.05346
+- https://arxiv.org/abs/2109.14082
+- https://arxiv.org/abs/2110.01052
+- https://arxiv.org/abs/2208.08182
+- https://arxiv.org/abs/2212.05260
+- https://arxiv.org/abs/2306.01196
+- https://arxiv.org/abs/2310.01262
+- https://arxiv.org/abs/2405.07374
+- https://arxiv.org/abs/2409.15844
+- https://arxiv.org/abs/2410.20579
+- https://arxiv.org/abs/2506.16416
+- https://arxiv.org/abs/2507.02807
+- https://arxiv.org/abs/2512.18118
+- https://arxiv.org/abs/2604.04239
+- https://doaj.org/article/75d0af3188d848728de804f89b29972b。書誌は未確定
+- https://healthcareitnews.com/news/research-suggests-epic-sepsis-model-lacking-predictive-power
+- https://informahealthcare.com/doi/abs/10.1080/15389588.2014.928703
+- https://mdedge.com/jhospmed/article/202628/hospital-medicine/early-warning-systems-neglected-importance-timing/page/0/1
+- https://mlanthology.org/ijcai/2001/elkan2001ijcai-foundations
+- https://nbviewer.jupyter.org/github/havakv/pycox/blob/master/examples/administrative_brier_score.ipynb
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC11785332
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10167173
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC2577036
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6791738
+- https://proceedings.mlr.press/v202/yanagisawa23a.html
+- https://repub.eur.nl/pub/129441/Repub_129441_O-A.pdf

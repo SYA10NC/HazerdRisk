@@ -106,3 +106,4 @@
 25. [25_aftermarket_devices_and_unr155_r156.md](25_aftermarket_devices_and_unr155_r156.md) — 受信専用の後付けCAN機器と UN R155/R156・21434・OBDアクセス規制・日本の保安基準（B-12。新規抜粋のみ26項目、既出2件）。後付け機器を直接扱う条項・公式解釈は未発見。部品承認は構想段階。受信専用の担保はCAN TX遮断が候補【推察】
 26. [26_japan_near_miss_db_and_dashcam_data.md](26_japan_near_miss_db_and_dashcam_data.md) — 日本のヒヤリハットDB・ドラレコ・事故データの入手条件と収録信号（B-13。新規抜粋35件、既出1件、全て抜粋のみ。公開DLは未確認、入手は共同研究・会員制・審査付き。アクセル・操舵・ADASフラグは未確認）
 27. [27_japanese_driving_foundation_and_distillation.md](27_japanese_driving_foundation_and_distillation.md) — 日本語文献・国内各社資料による運転操作列の基盤モデル・蒸留・世界モデル（B-22。CANのみの国内資料は未発見、国内各社は映像中心。全16件抜粋のみ）
+28a. [29_hazard_calibration_and_alert_threshold_design.md](29_hazard_calibration_and_alert_threshold_design.md) — 離散時間ハザードの校正評価と警告閾値の運用設計（B-24。新規抜粋のみ24件。固定警報率運用・NNE・Elkan/DCA・Learn then Test・重み付き共形を整理。走行時間あたり警報率の上限保証つき閾値選択の直接研究は未発見）
