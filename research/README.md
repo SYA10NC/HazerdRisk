@@ -107,3 +107,4 @@
 26. [26_japan_near_miss_db_and_dashcam_data.md](26_japan_near_miss_db_and_dashcam_data.md) — 日本のヒヤリハットDB・ドラレコ・事故データの入手条件と収録信号（B-13。新規抜粋35件、既出1件、全て抜粋のみ。公開DLは未確認、入手は共同研究・会員制・審査付き。アクセル・操舵・ADASフラグは未確認）
 27. [27_japanese_driving_foundation_and_distillation.md](27_japanese_driving_foundation_and_distillation.md) — 日本語文献・国内各社資料による運転操作列の基盤モデル・蒸留・世界モデル（B-22。CANのみの国内資料は未発見、国内各社は映像中心。全16件抜粋のみ）
 28a. [29_hazard_calibration_and_alert_threshold_design.md](29_hazard_calibration_and_alert_threshold_design.md) — 離散時間ハザードの校正評価と警告閾値の運用設計（B-24。新規抜粋のみ24件。固定警報率運用・NNE・Elkan/DCA・Learn then Test・重み付き共形を整理。走行時間あたり警報率の上限保証つき閾値選択の直接研究は未発見）
+30. [30_driver_specific_adaptation_evaluation_design.md](30_driver_specific_adaptation_evaluation_design.md) — ドライバー別少数ショット適応の評価設計と同一車両・複数ドライバーのCAN付き公開データ（B-28。新規ソース14件・全て抜粋のみ）

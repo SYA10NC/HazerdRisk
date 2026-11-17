@@ -3,8 +3,8 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 951
-- 複数ファイルで重複: 39
+- ユニークURL数: 965
+- 複数ファイルで重複: 44
 
 ## news/2026-11.md（54件）
 
@@ -1085,3 +1085,26 @@
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC6791738
 - https://proceedings.mlr.press/v202/yanagisawa23a.html
 - https://repub.eur.nl/pub/129441/Repub_129441_O-A.pdf
+
+## research/30_driver_specific_adaptation_evaluation_design.md（20件）
+
+- https://arxiv.org/abs/1704.05223
+- https://arxiv.org/abs/1710.04133
+- https://arxiv.org/abs/1812.05752
+- https://arxiv.org/abs/1902.08956
+- https://arxiv.org/abs/1911.09508
+- https://arxiv.org/abs/2112.05399
+- https://arxiv.org/abs/2211.01294
+- https://arxiv.org/abs/2406.07894
+- https://arxiv.org/abs/2412.10780
+- https://arxiv.org/abs/2607.23822
+- https://huggingface.co/datasets/HenryYHW/DriveDNA
+- https://ieee-dataport.org/documents/real-time-detection-aggressive-driving-using-can-data-differentiating-drivers-styles-and
+- https://ieee-dataport.org/open-access/car-mine-driver-pattern-dataset-extracted-can-bus
+- https://jstage.jst.go.jp/article/jsaeronbun/51/3/51_20204209/_article/-char/en
+- https://jstage.jst.go.jp/article/sicetr/62/1/62_2/_article/-char/ja
+- https://portalcientifico.uah.es/documentos/6276b52c2c3d9944cd36c9c4?lang=en
+- https://pure.bit.edu.cn/en/publications/a-comparative-study-on-transferable-driver-behavior-learning-meth
+- https://themoonlight.io/review/lane-change-intention-prediction-of-two-distinct-populations-using-a-transformer
+- https://usenix.org/conference/vehiclesec25/presentation/howson
+- https://weisongshi.org/papers/tian26-PEDRA.pdf
