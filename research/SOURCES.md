@@ -3,7 +3,7 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 965
+- ユニークURL数: 986
 - 複数ファイルで重複: 44
 
 ## news/2026-11.md（54件）
@@ -1108,3 +1108,27 @@
 - https://themoonlight.io/review/lane-change-intention-prediction-of-two-distinct-populations-using-a-transformer
 - https://usenix.org/conference/vehiclesec25/presentation/howson
 - https://weisongshi.org/papers/tian26-PEDRA.pdf
+
+## research/31_health_incapacitation_can_precursors.md（21件）
+
+- https://Euroncap.com/media/79883/euro-ncap-assessment-protocol-sa-safe-driving-v103.pdf
+- https://commercial-vehicles.euroncap.com/assessments/mercedes-benz/actros/h045
+- https://eur-lex.europa.eu/eli/reg/2024/2689/oj
+- https://globalautoregs.com/modifications/1835
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10657825
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9676395
+- https://jstage.jst.go.jp/article/jsaem/31/1/31_6/_article
+- https://jstage.jst.go.jp/article/jsaeronbun/52/2/52_20214147/_article/-char/en
+- https://man.eu/global/en/bus/assistance-systems/safestop-assist.html
+- https://manual.toyota.jp/sienta/3028/hev/ja_JP/contents/vhch04se050411.php
+- https://mlit.go.jp/common/001386373.pdf
+- https://mlit.go.jp/jidosha/content/001844033.pdf
+- https://nowandnext.daimler-truck.com/en/dtb/on-demand/trucks/safety.html
+- https://patentsgazette.uspto.gov/week13/OG/html/1533-1/US12263869-20250401.html
+- https://response.jp/article/2019/02/22/319396.html
+- https://rodo.co.jp/news/184275
+- https://tech.jsae.or.jp/paperinfo/en/content/giho2021-08.17
+- https://trid.trb.org/View/1493727
+- https://ukhaulier.co.uk/?p=42793
+- https://volvocars.com/ge/support/car/ex90/article/47d2c97fd33effd3c0a8cc3718c999b7-e6113e73efebc320c0a8b0971179c732-8664b2fa77a7e089c0a8296870d1a409
+- https://www1.mlit.go.jp:8088/common/001301889.pdf
