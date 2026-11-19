@@ -109,3 +109,4 @@
 28a. [29_hazard_calibration_and_alert_threshold_design.md](29_hazard_calibration_and_alert_threshold_design.md) — 離散時間ハザードの校正評価と警告閾値の運用設計（B-24。新規抜粋のみ24件。固定警報率運用・NNE・Elkan/DCA・Learn then Test・重み付き共形を整理。走行時間あたり警報率の上限保証つき閾値選択の直接研究は未発見）
 30. [30_driver_specific_adaptation_evaluation_design.md](30_driver_specific_adaptation_evaluation_design.md) — ドライバー別少数ショット適応の評価設計と同一車両・複数ドライバーのCAN付き公開データ（B-28。新規ソース14件・全て抜粋のみ）
 31. [31_health_incapacitation_can_precursors.md](31_health_incapacitation_can_precursors.md) — 健康起因の操作途絶のCAN上の予兆と運転者異常時対応システムの入力信号（B-25。新規抜粋のみ21件）。CANのみで完全な操作途絶を定量評価した論文は未発見。規制・特許・量産は「無入力→警告→停止」構造で、時間閾値は未確認。トヨタは LTA 制御中ゲート、国内バスは手動ボタン中心
+32. [32_japanese_brake_intent_and_deceleration_prediction.md](32_japanese_brake_intent_and_deceleration_prediction.md) — 日本語・国内研究による車両信号のみのブレーキ意図・減速予測（B-27。CANのみ・1.5秒超の文献は未発見、全18件抜粋のみ）

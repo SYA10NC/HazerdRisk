@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 986
-- 複数ファイルで重複: 44
+- ユニークURL数: 1007
+- 複数ファイルで重複: 45
 
-## news/2026-11.md（54件）
+## news/2026-11.md（56件）
 
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
@@ -36,11 +36,13 @@
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
 - https://globalautoregs.com/documents/42464
 - https://globalautoregs.com/meetings/3440
+- https://hklaw.com/en/insights/publications/2026/10/nhtsa-closes-out-2026-with-major-av-tire-and-recall-initiatives
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
 - https://kurs.com.ua/en/novost/1481467-271-mln-mil-bez-vodija-kompanija-waymo-zajavila-sho-yiyi-robotaksi-potrapljajut-u-tjazhki-avariyi-na-95-ridshe-avtomobiliv-z-vodijami
 - https://marklines.com/ja/news-editorspicks/20261102
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
+- https://mlit.go.jp/report/press/content/002046646.pdf
 - https://mlit.go.jp/report/press/jidosha07_hh_000571.html
 - https://mlit.go.jp/report/press/jidosha07_hh_000575.html
 - https://mlit.go.jp/report/press/jidosha10_hh_000330.html
@@ -1132,3 +1134,26 @@
 - https://ukhaulier.co.uk/?p=42793
 - https://volvocars.com/ge/support/car/ex90/article/47d2c97fd33effd3c0a8cc3718c999b7-e6113e73efebc320c0a8b0971179c732-8664b2fa77a7e089c0a8296870d1a409
 - https://www1.mlit.go.jp:8088/common/001301889.pdf
+
+## research/32_japanese_brake_intent_and_deceleration_prediction.md（20件）
+
+- https://ar5iv.labs.arxiv.org/abs/1801.03905
+- https://arxiv.org/abs/1801.03905
+- https://arxiv.org/abs/2507.17943
+- https://doaj.org/article/b32be4eba2be4dcb89c5af51abb3d02b
+- https://globals.ieice.org/en_transactions/fundamentals/10.1587/transfun.E100.A.466/_p
+- https://ipsj.ixsq.nii.ac.jp/record/220162/files/IPSJ-ITS22090013.pdf
+- https://jstage.jst.go.jp/article/jrsj1983/15/6/15_6_953/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsaeijae/9/4/9_20184128/_article/-char/en
+- https://jstage.jst.go.jp/article/jsaeronbun/50/1/50_20194053/_pdf
+- https://jstage.jst.go.jp/article/jsaeronbun/55/3/55_20244173/_pdf
+- https://jstage.jst.go.jp/article/jsaeronbun/56/6/56_20254700/_pdf
+- https://mdpi.com/1999-4893/10/4/129
+- https://mdpi.com/2076-0825/7/3/39
+- https://rd.springer.com/chapter/10.1007/978-3-642-39215-3_63
+- https://saemobilus.sae.org/content/2015-01-2841
+- https://tech.jsae.or.jp/paperinfo/en/content/jt202102.22
+- https://tech.jsae.or.jp/paperinfo/en/content/jt202202.11
+- https://tech.jsae.or.jp/paperinfo/ja/content/jt202102.24
+- https://tytlabs.co.jp/en/japanese/review/rev333pdf/333_085ohno.pdf
+- https://vislab.is.i.nagoya-u.ac.jp/~murase/pdf/549-pdf.pdf

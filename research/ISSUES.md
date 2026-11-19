@@ -154,3 +154,6 @@
 
 ### I-35 [品質] 31 の国交省統計・三菱ふそう報道は、数値とURLの対応が未確定
 - 3.2秒・0.25G、健康起因事故の件数・割合の出典URLを切り分けられていない。状態: 未対応
+
+### I-01 追記（2026-11-19）
+- arxiv.org・eur-lex・jstage・tech.jsae.or.jp・ipsj.ixsq.nii.ac.jp・doaj.org・mdpi.com が WebFetch で名前解決失敗のまま。B-27（32）も全て抜粋のみ。許可が必要なホストに jstage.jst.go.jp、tech.jsae.or.jp、ipsj.ixsq.nii.ac.jp、doaj.org、mdpi.com を追加。
