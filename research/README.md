@@ -110,3 +110,4 @@
 30. [30_driver_specific_adaptation_evaluation_design.md](30_driver_specific_adaptation_evaluation_design.md) — ドライバー別少数ショット適応の評価設計と同一車両・複数ドライバーのCAN付き公開データ（B-28。新規ソース14件・全て抜粋のみ）
 31. [31_health_incapacitation_can_precursors.md](31_health_incapacitation_can_precursors.md) — 健康起因の操作途絶のCAN上の予兆と運転者異常時対応システムの入力信号（B-25。新規抜粋のみ21件）。CANのみで完全な操作途絶を定量評価した論文は未発見。規制・特許・量産は「無入力→警告→停止」構造で、時間閾値は未確認。トヨタは LTA 制御中ゲート、国内バスは手動ボタン中心
 32. [32_japanese_brake_intent_and_deceleration_prediction.md](32_japanese_brake_intent_and_deceleration_prediction.md) — 日本語・国内研究による車両信号のみのブレーキ意図・減速予測（B-27。CANのみ・1.5秒超の文献は未発見、全18件抜粋のみ）
+33. [33_japanese_alarm_fatigue_and_threshold_literature.md](33_japanese_alarm_fatigue_and_threshold_literature.md) — 日本語の警報疲労・アラーム閾値・誤報率の文献（B-29。新規抜粋のみ27件、既出1件。感度・PPV・誤報率を直接報告した日本語文献は未発見。医療は件数内訳のみ、プラントは EEMUA 191 系と正常データ閾値、車載は国内OFF率が未発見。全て抜粋のみ）

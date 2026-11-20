@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1007
-- 複数ファイルで重複: 45
+- ユニークURL数: 1037
+- 複数ファイルで重複: 46
 
-## news/2026-11.md（56件）
+## news/2026-11.md（58件）
 
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
@@ -18,6 +18,7 @@
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
+- https://autocar.co.uk/node/343998
 - https://autoconnectedcar.com/2026/03/autonomous-self-driving-vehicle-news-mobileye-einride-waymo-autobrains-pony-ai-verne-uber
 - https://autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-tesla-mobileye-aeva-ouster-pony-ai-nvidia-stellantis-bolt-wayve-volkswagen-einride-valeo-aptiv-tier-iv
 - https://autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn
@@ -64,6 +65,7 @@
 - https://themoonlight.io/review/the-context-of-crash-occurrence-a-complexity-infused-approach-integrating-semantic-contextual-and-kinematic-features
 - https://trid.trb.org/View/2716664
 - https://trid.trb.org/View/2736805
+- https://trid.trb.org/View/2743033
 
 ## research/01_can_driving_behavior_detection.md（32件）
 
@@ -1157,3 +1159,35 @@
 - https://tech.jsae.or.jp/paperinfo/ja/content/jt202102.24
 - https://tytlabs.co.jp/en/japanese/review/rev333pdf/333_085ohno.pdf
 - https://vislab.is.i.nagoya-u.ac.jp/~murase/pdf/549-pdf.pdf
+
+## research/33_japanese_alarm_fatigue_and_threshold_literature.md（29件）
+
+- https://aftc.or.jp/content/files/pdf/aftc_info/aftcinfo_20220831.pdf
+- https://app.hus.osaka-u.ac.jp/wp-content/uploads/2024/03/Bachelor_2015_Fukuzawa.pdf
+- https://apsf.org/ja/article/アラーム疲労と患者安全
+- https://bestcarweb.jp/feature/column/43078?prd=2
+- https://byoin.city.fuji.shizuoka.jp/bumon/kango/documents/202408ninteinrsdayori_qq.pdf
+- https://cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.47/pdf/2-69.pdf
+- https://city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/byoin/ybsc/shinryo-bumon/bumon/CE.files/2023MACT.pdf
+- https://hosp.itami.hyogo.jp/wp/wp-content/uploads/2024/12/⑱モニターアラームコントロールチーム.pdf
+- https://ipsj.ixsq.nii.ac.jp/record/185959/files/IPSJ-MBL18086050.pdf
+- https://j-cast.com/kaisha/2018/01/26319695.html
+- https://jstage.jst.go.jp/article/ieejeiss/133/10/133_1998/_article/-char/ja
+- https://jstage.jst.go.jp/article/jcej/40/9/40_07WE074/_article/-char/en
+- https://jstage.jst.go.jp/article/jphf/16/2/16_80/_article/-char/ja
+- https://jstage.jst.go.jp/article/jphf/29/2/29_61/_article/-char/ja
+- https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-20K05213/20K05213seika.pdf
+- https://kokusen.go.jp/news/data/n-20180118_1.html
+- https://kuruma-news.jp/post/52660
+- https://mlit.go.jp/report/press/jidosha08_hh_003585.html
+- https://mlit.go.jp/report/press/jidosha08_hh_005420.html
+- https://naist.repo.nii.ac.jp/record/10691/files/R009279.pdf
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC11577488
+- https://nitech.repo.nii.ac.jp/record/6173/files/HamaguchiTakashi_2014_A2.pdf
+- https://old.tqm.mgmt.waseda.ac.jp/contents/record/pdf/16/shimada.pdf
+- https://redcross.repo.nii.ac.jp/record/16351/files/kyoto1%E3%80%80000037.pdf
+- https://shizuoka.repo.nii.ac.jp/record/4828/files/110215001.pdf
+- https://soar-ir.repo.nii.ac.jp/record/8387/files/Nurshing_Research32-01-15.pdf
+- https://tec-lab.pref.gunma.jp/wp-content/uploads/R4_04.pdf
+- https://toyokeizai.net/articles/-/209184
+- https://yokogawa.com/tw/library/resources/yokogawa-technical-reports/alarm-rationalization-for-improving-safety
