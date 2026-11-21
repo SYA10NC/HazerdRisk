@@ -3,7 +3,7 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1037
+- ユニークURL数: 1068
 - 複数ファイルで重複: 46
 
 ## news/2026-11.md（58件）
@@ -1191,3 +1191,37 @@
 - https://tec-lab.pref.gunma.jp/wp-content/uploads/R4_04.pdf
 - https://toyokeizai.net/articles/-/209184
 - https://yokogawa.com/tw/library/resources/yokogawa-technical-reports/alarm-rationalization-for-improving-safety
+
+## research/34_alarm_refractory_period_and_rewarning_suppression.md（31件）
+
+- https://aliresources.hexagon.com/mining/shut-up-fixing-chattering-and-fleeting-alarms
+- https://arxiv.org/abs/2302.03885
+- https://assets.new.siemens.com/siemens/assets/api/uuid:234f1026-298f-49dc-8961-0c5223c38588/white-paper-alarm-management-2021-final.pdf
+- https://automation.com/article/solve-common-problems-industrial-automation-alarm-systems
+- https://bmjopenquality.bmj.com/content/7/3/e000088.abstract
+- https://bohrium.com/paper-details/analysis-and-design-of-time-deadbands-for-univariate-alarm-systems/813084497376444418-2564
+- https://childrenshospitals.org/news/childrens-hospitals-today/2019/04/patient-safety-project-aims-to-reduce-alarm-fatigue-in-the-nicu
+- https://controlglobal.com/articles/2016/how-to-reduce-alarm-chatter
+- https://dais.chbe.ubc.ca/assets/preprints/2019J7_Tulsyan_IECR.pdf
+- https://era.library.ualberta.ca/items/cf7ce9ee-6e2b-404d-892c-0ae2b31ca361/download/08f7b9bc-7fb6-43a1-8370-d6f761d0cce2
+- https://hi.northernlighthealth.org/Flyers/Non-Providers/Hospital-Nurse/IC/Cerner-IP-RN-SIRS_-Sepsis.aspx
+- https://hosp.med.osaka-u.ac.jp/home/hp-cqm/ingai/seminar/pdf/2022/005_arai.pdf
+- https://isa.org/intech-home/2021/august-2021/features/from-alarm-floods-to-highly-protected-status
+- https://iso.org/standard/72349.html
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC10990340
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC6501373
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC9424650
+- https://new.abb.com/control-systems/ja/system-800xa/800xa-dcs/operator-interfaces/alarm-management/articles/alarm-rationalization
+- https://nhtsa.gov/node/10181
+- https://octave.com/learn/resources/blogs/taming-wild-alarm-system-part-three
+- https://opact.sdu.edu.tr/vufind/SummonRecord/FETCH-LOGICAL-c467t-c5fce0163a09fd5f5e606fed2cae1f54ffc76d6b820dd5d39adea1e60d3d7fd33
+- https://philips.com/c-dam/b2bhc/onesite-master/articles/hpm-clinical-series-alarm-fatigue-and-ways-to-address-it.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4891882
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6109824
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6193710
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7684552
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8605481
+- https://psnet.ahrq.gov/issue/improving-alarm-performance-medical-intensive-care-unit-using-delays-and-clinical-context
+- https://saemobilus.sae.org/papers/repeated-measures-testing-driver-collision-warning-2015-01-1413
+- https://skoge.folk.ntnu.no/prost/proceedings/ifac2014/media/files/0114.pdf
+- https://volpe.dot.gov/sites/volpe.dot.gov/files/docs/SAVE-IT%20-%20Adaptive%20Safety%20Warning%20Countermeasures.doc

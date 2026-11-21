@@ -164,3 +164,6 @@
 
 ### I-01 追記（2026-11-19）
 - arxiv.org・eur-lex・jstage・tech.jsae.or.jp・ipsj.ixsq.nii.ac.jp・doaj.org・mdpi.com が WebFetch で名前解決失敗のまま。B-27（32）も全て抜粋のみ。許可が必要なホストに jstage.jst.go.jp、tech.jsae.or.jp、ipsj.ixsq.nii.ac.jp、doaj.org、mdpi.com を追加。
+
+### I-01 追記（2026-11-21）
+- arxiv.org・pmc.ncbi.nlm.nih.gov・bmjopenquality.bmj.com・controlglobal.com・hexagon.com・automation.com・era.library.ualberta.ca 等が WebFetch で名前解決失敗のまま。B-30（34）は全29件抜粋のみ。B-14/15/16/19/20/26 は引き続き見送り。
