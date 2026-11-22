@@ -112,3 +112,5 @@
 32. [32_japanese_brake_intent_and_deceleration_prediction.md](32_japanese_brake_intent_and_deceleration_prediction.md) — 日本語・国内研究による車両信号のみのブレーキ意図・減速予測（B-27。CANのみ・1.5秒超の文献は未発見、全18件抜粋のみ）
 33. [33_japanese_alarm_fatigue_and_threshold_literature.md](33_japanese_alarm_fatigue_and_threshold_literature.md) — 日本語の警報疲労・アラーム閾値・誤報率の文献（B-29。新規抜粋のみ27件、既出1件。感度・PPV・誤報率を直接報告した日本語文献は未発見。医療は件数内訳のみ、プラントは EEMUA 191 系と正常データ閾値、車載は国内OFF率が未発見。全て抜粋のみ）
 34. [34_alarm_refractory_period_and_rewarning_suppression.md](34_alarm_refractory_period_and_rewarning_suppression.md) — 警報の再発報抑制（不応期・遅延・ラッチ）と警報率の関係（B-30。新規抜粋のみ29件、既出2件。運転の時間尺度での直接研究は未発見。医療は遅延で無効アラーム51〜67%減（孫引き）、段階上昇時のみ再発報を許す階層ルールの先例。FCW/LDW の再警報秒数は未発見。全て抜粋のみ）
+
+35. [35_accelerator_release_and_coasting_onset_prediction.md](35_accelerator_release_and_coasting_onset_prediction.md) — アクセル戻し・惰行開始の予測（エコドライブ系・日本語中心）（22件、全て抜粋のみ。CANのみでのホライズン別性能は未発見）

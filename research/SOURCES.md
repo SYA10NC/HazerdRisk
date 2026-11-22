@@ -3,11 +3,12 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1068
+- ユニークURL数: 1096
 - 複数ファイルで重複: 46
 
-## news/2026-11.md（58件）
+## news/2026-11.md（60件）
 
+- https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road
 - https://abdynamics.com/?p=16328
 - https://abdynamics.com/?p=18562
 - https://abdynamics.com/ja/?p=16339
@@ -35,6 +36,7 @@
 - https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
 - https://evwire.com/p/waymo-safety-update-220-million-miles-94-percent-fewer-crashes
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
+- https://fortune.com/2026/11/18/waymo-driverless-freeway-ban-california-nationwide
 - https://globalautoregs.com/documents/42464
 - https://globalautoregs.com/meetings/3440
 - https://hklaw.com/en/insights/publications/2026/10/nhtsa-closes-out-2026-with-major-av-tire-and-recall-initiatives
@@ -1225,3 +1227,32 @@
 - https://saemobilus.sae.org/papers/repeated-measures-testing-driver-collision-warning-2015-01-1413
 - https://skoge.folk.ntnu.no/prost/proceedings/ifac2014/media/files/0114.pdf
 - https://volpe.dot.gov/sites/volpe.dot.gov/files/docs/SAVE-IT%20-%20Adaptive%20Safety%20Warning%20Countermeasures.doc
+
+## research/35_accelerator_release_and_coasting_onset_prediction.md（26件）
+
+- https://aisin.com/jp/technology/technicalreview/25/pdf/11.pdf
+- https://arxiv.org/abs/2501.08868
+- https://cir.nii.ac.jp/crid/1390282679589381504
+- https://cit.nihon-u.ac.jp/kouendata/No.37/1_kikai/1-039.pdf
+- https://cit.nihon-u.ac.jp/kouendata/No.38/1_kikai/1-031.pdf
+- https://energy.gov/eere/vehicles/articles/experimental-evaluation-eco-driving-strategies-0
+- https://eprints.whiterose.ac.uk/131962/3/AAP-D-18-00325manuscript_second%20submission.pdf
+- https://etrr.springeropen.com/articles/10.1007/s12544-015-0174-4/figures/3
+- https://global.honda/jp/tech/Driving_support_system_utilizing_traffic_signal_information
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9783200
+- https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9896106
+- https://informahealthcare.com/doi/abs/10.1080/15389588.2019.1707194
+- https://iris.polito.it/retrieve/handle/11583/2982350/671136
+- https://its-jp.org/wp-content/uploads/2022/12/2022-1-B-10_paper.pdf
+- https://jstage.jst.go.jp/article/jmtl/5/1/5_86/_article/-char/en
+- https://jstage.jst.go.jp/article/jsaeijae/10/1/10_20194089/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsaeronbun/42/5/42_5_1021/_article/-char/en
+- https://jstage.jst.go.jp/article/jsaeronbun/50/4/50_20194577/_pdf
+- https://jstage.jst.go.jp/article/jscejipm/74/5/74_I_1375/_pdf/-char/ja
+- https://jstage.jst.go.jp/article/jsmetld/2005.14/0/2005.14_203/_article/-char/ja
+- https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi...........5872719f5dd0c66af37ed40a5acd69fb
+- https://manual.toyota.jp/alphard/3086/phev/ja_JP/contents/nvch04se020405.php
+- https://ncbi.nlm.nih.gov/pmc/articles/PMC6806341
+- https://repository.lboro.ac.uk/articles/Analyzing_and_modelling_drivers_deceleration_behaviour_from_normal_driving/9448259/files/17070251.pdf
+- https://research.chalmers.se/en/publication/243679
+- https://robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E397Final.pdf
