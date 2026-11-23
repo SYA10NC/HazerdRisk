@@ -114,3 +114,5 @@
 34. [34_alarm_refractory_period_and_rewarning_suppression.md](34_alarm_refractory_period_and_rewarning_suppression.md) — 警報の再発報抑制（不応期・遅延・ラッチ）と警報率の関係（B-30。新規抜粋のみ29件、既出2件。運転の時間尺度での直接研究は未発見。医療は遅延で無効アラーム51〜67%減（孫引き）、段階上昇時のみ再発報を許す階層ルールの先例。FCW/LDW の再警報秒数は未発見。全て抜粋のみ）
 
 35. [35_accelerator_release_and_coasting_onset_prediction.md](35_accelerator_release_and_coasting_onset_prediction.md) — アクセル戻し・惰行開始の予測（エコドライブ系・日本語中心）（22件、全て抜粋のみ。CANのみでのホライズン別性能は未発見）
+
+36. [36_predictive_maintenance_false_alarm_and_threshold_literature.md](36_predictive_maintenance_false_alarm_and_threshold_literature.md) — 鉄道・製造の予知保全における誤警報率・ARL・閾値設計の文献（B-32。新規抜粋のみ21件URL）。日本語文献で誤警報率・ARLの数値は未発見。数値は構造振動AE（偽陽性5%・検出80%超）、MEWMA橋梁（ARL0=370.4）、EWMA製品文書のみ。ARL0を先に決め閾値を逆算する手順をL4候補とする【推察】

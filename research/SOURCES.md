@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1096
+- ユニークURL数: 1119
 - 複数ファイルで重複: 46
 
-## news/2026-11.md（60件）
+## news/2026-11.md（62件）
 
 - https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road
 - https://abdynamics.com/?p=16328
@@ -19,6 +19,7 @@
 - https://arxiv.org/abs/2601.06327
 - https://arxiv.org/abs/2603.14841
 - https://arxiv.org/abs/2606.06074
+- https://auto123.com/en/news/waymo-stops-self-driving-cars-highways-usa/74388
 - https://autocar.co.uk/node/343998
 - https://autoconnectedcar.com/2026/03/autonomous-self-driving-vehicle-news-mobileye-einride-waymo-autobrains-pony-ai-verne-uber
 - https://autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-tesla-mobileye-aeva-ouster-pony-ai-nvidia-stellantis-bolt-wayve-volkswagen-einride-valeo-aptiv-tier-iv
@@ -28,6 +29,7 @@
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://clepa.eu/wp-content/uploads/2026/06/Automated-driving-moves-closer-to-deployment-as-UN-adopts-global-safety-framework.pdf
+- https://data.consilium.europa.eu/doc/document/ST-14404-2026-ADD-1/da/pdf
 - https://data.consilium.europa.eu/doc/document/ST-14404-2026-ADD-1/es/pdf
 - https://driveteslacanada.ca/news/nhtsa-escalates-tesla-fsd-investigation-over-low-visibility-detection-concerns
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
@@ -1256,3 +1258,27 @@
 - https://repository.lboro.ac.uk/articles/Analyzing_and_modelling_drivers_deceleration_behaviour_from_normal_driving/9448259/files/17070251.pdf
 - https://research.chalmers.se/en/publication/243679
 - https://robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E397Final.pdf
+
+## research/36_predictive_maintenance_false_alarm_and_threshold_literature.md（21件）
+
+- https://arxiv.org/abs/1902.09952
+- https://arxiv.org/abs/2110.10680
+- https://arxiv.org/abs/2506.20295
+- https://cir.nii.ac.jp/crid/1390282679428703744
+- https://cir.nii.ac.jp/crid/1390282681363190912
+- https://cir.nii.ac.jp/crid/1390579621197091712
+- https://jmp.com/support/help/en/18.2/jmp/average-run-length-arl-report-2.shtml。製品文書で査読論文ではない。検索結果の要約のみ
+- https://jreast.co.jp/development/tech/pdf_55/tech-55-43-46.pdf
+- https://jreast.co.jp/development/tech/pdf_60/tech-60-43-46.pdf
+- https://jreast.co.jp/development/tech/pdf_62/tech-62-57-60.pdf
+- https://jstage.jst.go.jp/article/jamdsm/18/1/18_2024jamdsm0005/_article
+- https://jstage.jst.go.jp/article/jsmemecj/2022/0/2022_J061p-03/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsmetld/2021.30/0/2021.30_PS1-10/_article/-char/ja
+- https://jstage.jst.go.jp/article/quality/19/1/19_KJ00002078452/_article/-char/ja
+- https://jstage.jst.go.jp/article/reajshinrai/20/3/20_KJ00002020500/_article/-char/en
+- https://jstage.jst.go.jp/article/rtriqr/63/4/63_238/_article
+- https://jstage.jst.go.jp/article/transjsme/89/923/89_23-00074/_article/-char/ja
+- https://jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00020/_article/-char/ja
+- https://mlit.go.jp/tetudo/content/001625800.pdf
+- https://papers.phmsociety.org/index.php/phme/article/view/4113
+- https://sigmaxl.com/EwmaARL.shtml
