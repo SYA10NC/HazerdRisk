@@ -116,3 +116,4 @@
 35. [35_accelerator_release_and_coasting_onset_prediction.md](35_accelerator_release_and_coasting_onset_prediction.md) — アクセル戻し・惰行開始の予測（エコドライブ系・日本語中心）（22件、全て抜粋のみ。CANのみでのホライズン別性能は未発見）
 
 36. [36_predictive_maintenance_false_alarm_and_threshold_literature.md](36_predictive_maintenance_false_alarm_and_threshold_literature.md) — 鉄道・製造の予知保全における誤警報率・ARL・閾値設計の文献（B-32。新規抜粋のみ21件URL）。日本語文献で誤警報率・ARLの数値は未発見。数値は構造振動AE（偽陽性5%・検出80%超）、MEWMA橋梁（ARL0=370.4）、EWMA製品文書のみ。ARL0を先に決め閾値を逆算する手順をL4候補とする【推察】
+37. [37_japan_warning_off_rate_and_annoyance_surveys.md](37_japan_warning_off_rate_and_annoyance_surveys.md) — 国内の車載警報 OFF 率・煩わしさ調査（B-33。新規抜粋25件、既出1件、全て抜粋のみ。国内一般ドライバーの OFF 率数値は未発見。OFF/感度切替は取説で確認）

@@ -170,3 +170,6 @@
 
 ### I-01 追記（2026-11-23）
 - arxiv.org に加え cir.nii.ac.jp・www.jstage.jst.go.jp・www.jreast.co.jp・papers.phmsociety.org も WebFetch で名前解決失敗（B-32 のサブエージェント報告）。B-14/15/16/19/20/26 は引き続き見送り。
+
+### I-01 追記（2026-11-25）
+- arxiv.org に加え jafmate.jp・atpress.ne.jp・www.mlit.go.jp・www.jstage.jst.go.jp・manual.toyota.jp・doaj.org も WebFetch で名前解決失敗。B-14/15/16/19/20/26 は引き続き見送り。

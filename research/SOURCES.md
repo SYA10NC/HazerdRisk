@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1119
-- 複数ファイルで重複: 46
+- ユニークURL数: 1146
+- 複数ファイルで重複: 47
 
-## news/2026-11.md（62件）
+## news/2026-11.md（64件）
 
 - https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road
 - https://abdynamics.com/?p=16328
@@ -35,6 +35,7 @@
 - https://driveteslacanada.ca/news/tesla-phantom-braking-investigation-closed-nhtsa
 - https://etsc.eu/euro-ncap-new-2026-protocols-target-distraction-impairment-and-speeding
 - https://euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks
+- https://euroncap.com/media/91718/sd-201-driver-monitoring-dossier-guidance-v11.pdf
 - https://evwire.com/p/waymo-safety-data-fewer-injury-crashes-results
 - https://evwire.com/p/waymo-safety-update-220-million-miles-94-percent-fewer-crashes
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
@@ -45,6 +46,7 @@
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
 - https://jama.or.jp/operation/motorcycle/environment/pdf/motorcycle_accidents_at_intersections.pdf
 - https://kurs.com.ua/en/novost/1481467-271-mln-mil-bez-vodija-kompanija-waymo-zajavila-sho-yiyi-robotaksi-potrapljajut-u-tjazhki-avariyi-na-95-ridshe-avtomobiliv-z-vodijami
+- https://marklines.com/en/news/318382
 - https://marklines.com/ja/news-editorspicks/20261102
 - https://mlit.go.jp/page/kanbo01_hy_011165.html
 - https://mlit.go.jp/report/press/content/002046646.pdf
@@ -1282,3 +1284,32 @@
 - https://mlit.go.jp/tetudo/content/001625800.pdf
 - https://papers.phmsociety.org/index.php/phme/article/view/4113
 - https://sigmaxl.com/EwmaARL.shtml
+
+## research/37_japan_warning_off_rate_and_annoyance_surveys.md（26件）
+
+- https://atpress.ne.jp/releases/410698/att_410698_1.pdf
+- https://bestcarweb.jp/feature/column/1492953
+- https://carexpert.com.au/car-news/australian-drivers-are-turning-off-annoying-safety-systems-study-shows
+- https://diamond.jp/articles/-/403195
+- https://faq2.nissan.co.jp/faq/show/2908
+- https://iihs.org/news/detail/fewer-drivers-are-opting-out-of-lane-departure-prevention
+- https://jaf.or.jp/common/safety-drive/car-learning/user-test
+- https://jaf.or.jp/common/safety-drive/library/questionnaire
+- https://jaf.or.jp/common/safety-drive/new-technology/asv/faq
+- https://jafmate.jp/car/traffic_topics_20240930_1196257.html
+- https://jafmate.jp/series/safety/usertest.html
+- https://jstage.jst.go.jp/article/fss/31/0/31_375/_pdf
+- https://jstage.jst.go.jp/article/ieejias/125/11/125_11_1038/_pdf
+- https://jstage.jst.go.jp/article/jje/57/5/57_284/_pdf
+- https://jstage.jst.go.jp/article/jsaeronbun/50/3/50_20194364/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsaeronbun/57/2/57_20264129/_pdf
+- https://jstage.jst.go.jp/article/jsmetld/2001.10/0/2001.10_231/_article/-char/ja
+- https://jstage.jst.go.jp/article/jsmetld/2005.14/0/2005.14_345/_article/-char/ja
+- https://manual.toyota.jp/86/2608/cv/ja_JP/contents/vhch04se050408.php
+- https://manual.toyota.jp/voxy/2210/cv/ja_JP/contents/vhch04se050404.php
+- https://mlit.go.jp/common/001114788.pdf
+- https://pc.watch.impress.co.jp/docs/release/atpress/1625155.html
+- https://renrakuda.mlit.go.jp/renrakuda/common/data/quarter_r6_2.pdf
+- https://which.co.uk/news/article/dangerous-annoying-and-absolutely-hopeless-what-youve-told-us-about-driver-assistance-tech-aHSgk7w3k8sJ
+- https://www8.cao.go.jp/koutu/chou-ken/r01/pdf/file2.pdf
+- https://www8.cao.go.jp/koutu/chou-ken/r06/pdf/s2.pdf
