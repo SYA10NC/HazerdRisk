@@ -173,3 +173,9 @@
 
 ### I-01 追記（2026-11-25）
 - arxiv.org に加え jafmate.jp・atpress.ne.jp・www.mlit.go.jp・www.jstage.jst.go.jp・manual.toyota.jp・doaj.org も WebFetch で名前解決失敗。B-14/15/16/19/20/26 は引き続き見送り。
+
+### I-01 追記（2026-11-26）
+- arxiv.org に加え jstage.jst.go.jp・cir.nii.ac.jp・core.ac.uk・informahealthcare.com・koreascience.kr・link.springer.com・macsphere.mcmaster.ca も WebFetch で名前解決失敗。B-34（38）は全16件抜粋のみ。B-14/15/16/19/20/26 は引き続き見送り。
+
+### I-36 [品質] 38 の日本語文献 No.2〜7 は著者・年・掲載誌が抜粋で確定できていない — 未対応
+- 本文確認（I-01 解消後）で書誌を確定する。自前 AR(1) 計算は既知パラメータ・定常のみで、推定誤差入りの検証は未実施。

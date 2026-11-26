@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1146
+- ユニークURL数: 1166
 - 複数ファイルで重複: 47
 
-## news/2026-11.md（64件）
+## news/2026-11.md（66件）
 
 - https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road
 - https://abdynamics.com/?p=16328
@@ -27,6 +27,7 @@
 - https://autonews.gasgoo.com/articles/icv/mobileye-receives-tv-sds-first-aeb-development-and-testing-certificate-2115032298189369345
 - https://bloomberg.com/news/articles/2026-10-23/green-blue-lights-on-the-road-could-soon-mean-a-driverless-car
 - https://cbtnews.com/nhtsa-investigates-over-3-million-honda-vehicles-after-47-crashes-reported
+- https://cdn.euroncap.com/cars/assets/Euro_NCAP_Protocol_Crash_Avoidance_Frontal_Collisions_v1_2_220d87e28a.pdf
 - https://cleantechnica.com/2026/10/30/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-streets-and-freedom-of-movement-for-all
 - https://clepa.eu/wp-content/uploads/2026/06/Automated-driving-moves-closer-to-deployment-as-UN-adopts-global-safety-framework.pdf
 - https://data.consilium.europa.eu/doc/document/ST-14404-2026-ADD-1/da/pdf
@@ -41,6 +42,7 @@
 - https://federalregister.gov/documents/2025/09/22/2025-18285/new-car-assessment-program-ncap-notice-delay-of-program-updates
 - https://fortune.com/2026/11/18/waymo-driverless-freeway-ban-california-nationwide
 - https://globalautoregs.com/documents/42464
+- https://globalautoregs.com/meetings/3033
 - https://globalautoregs.com/meetings/3440
 - https://hklaw.com/en/insights/publications/2026/10/nhtsa-closes-out-2026-with-major-av-tire-and-recall-initiatives
 - https://jahic-etc.com/2026/02/05/jahic_26_2_5
@@ -1313,3 +1315,24 @@
 - https://which.co.uk/news/article/dangerous-annoying-and-absolutely-hopeless-what-youve-told-us-about-driver-assistance-tech-aHSgk7w3k8sJ
 - https://www8.cao.go.jp/koutu/chou-ken/r01/pdf/file2.pdf
 - https://www8.cao.go.jp/koutu/chou-ken/r06/pdf/s2.pdf
+
+## research/38_arl_design_and_autocorrelated_control_charts.md（18件）
+
+- https://acnpsearch.tweb-dev.unibo.it/singlejournalindex/63572265
+- https://arxiv.org/abs/1907.05453
+- https://ci.nii.ac.jp/naid/110003154229
+- https://cir.nii.ac.jp/crid/1390282763075817088
+- https://cir.nii.ac.jp/crid/1390564238079488512
+- https://ideas.repec.org/a/taf/lstaxx/v50y2021i24p5738-5758.html
+- https://informahealthcare.com/doi/abs/10.1080/00224065.1999.11979925
+- https://informahealthcare.com/doi/abs/10.1080/00224065.2001.11980082
+- https://informahealthcare.com/doi/abs/10.1198/004017003000000014
+- https://informahealthcare.com/doi/full/10.1080/00224065.1991.11979321
+- https://informahealthcare.com/doi/full/10.1080/00224065.2008.11917747
+- https://jstage.jst.go.jp/article/jappstat1971/34/2/34_2_99/_article/-char/ja
+- https://jstage.jst.go.jp/article/jima/57/3/57_KJ00005984201/_article/-char/ja
+- https://jstage.jst.go.jp/article/quality/13/4/13_KJ00002952290/_article/-char/ja
+- https://jstage.jst.go.jp/article/quality/32/3/32_KJ00002078299/_article/-char/ja
+- https://koreascience.kr/article/JAKO200830335057386.pdf
+- https://scitepress.org/Papers/2014/51469
+- https://tdl-ir.tdl.org/handle/1969.1/2778
