@@ -3,10 +3,10 @@
 `python3 scripts/sources_index.py` で再生成する。手で編集しない。
 新しい調査では、ここにあるURLを「新規ソース」として数えない（再確認目的の再掲は可、その旨を注記）。
 
-- ユニークURL数: 1166
-- 複数ファイルで重複: 47
+- ユニークURL数: 1199
+- 複数ファイルで重複: 49
 
-## news/2026-11.md（66件）
+## news/2026-11.md（68件）
 
 - https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road
 - https://abdynamics.com/?p=16328
@@ -61,7 +61,9 @@
 - https://nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
 - https://paultan.org/2025/11/28/euro-ncap-2026-protocol-targets-annoying-adas-warnings-interventions-physical-buttons-availability
 - https://pref.ibaraki.jp/kenkei/a02_traffic/archives/blockprint/documents/r7-36.pdf
+- https://pref.kumamoto.jp/uploaded/attachment/321285.pdf
 - https://public-inspection.federalregister.gov/2026-10363.pdf
+- https://response.jp/article/2026/10/28/418315.html
 - https://smarteye.se/blog/driver-monitoring-euro-ncap-2026
 - https://static.nhtsa.gov/esv/pdf/ESV/Proceedings/28/ESV26-027.pdf
 - https://static.nhtsa.gov/odi/inv/2025/INIM-EA25006-51191.pdf
@@ -1336,3 +1338,39 @@
 - https://koreascience.kr/article/JAKO200830335057386.pdf
 - https://scitepress.org/Papers/2014/51469
 - https://tdl-ir.tdl.org/handle/1969.1/2778
+
+## research/39_j1939_aebs_signals_and_japan_heavy_truck_adas_signal_access.md（33件）
+
+- https://auelectronics.com/downloads/usermanual_simfms.pdf
+- https://bodybuilder.scania.com/content/dam/bodybuilder/local-page/thailand/CAN_Communication_Specification_for_FMS.PDF
+- https://bodybuilder.scania.com/content/dam/bodybuilder/local-page/thailand/CAN_interface_for_FMS.PDF
+- https://car.watch.impress.co.jp/docs/news/1671697.html
+- https://clepa.eu/?p=20952
+- https://csselectronics.com/pages/j1939-pgn-list
+- https://daimlertruck.com.au/contentassets/11160e6d522e4b81a705fa8b158dfb33/connected-vehicle-data-policy_04062024-1.pdf
+- https://docomap.jp/en/notice/64
+- https://docs.rs/crate/dbcc/latest/source/examples/j1939.dbc
+- https://docs.rs/crate/j1939/latest/source/src/spn.rs
+- https://eur-lex.europa.eu/eli/reg/2025/1329/oj
+- https://govinfo.gov/content/pkg/FR-2023-07-06/html/2023-13622.htm
+- https://isobus.net/isobus/pGNAndSPN/index?type=SPN&PGNAndSPN_page=39
+- https://iwave-global.com/ja/articles/fms-standard-for-commercial-vehicles-enabling-smarter-unified-fleet-management
+- https://lnews.jp/2019/12/l122721.html
+- https://logi-today.com/535686
+- https://manualshive.com/en/manual/teltonika/fm5500/1084754?page=111
+- https://mlit.go.jp/common/001085173.pdf
+- https://mlit.go.jp/jidosha/content/001994650.pdf
+- https://navixy.com/blog/telematics-commissioning-gate
+- https://nhtsa.gov/document/nprm-heavy-vehicles-automatic-emergency-braking-systems
+- https://nikkan.co.jp/articles/view/00509979
+- https://response.jp/article/2026/08/28/415833.html
+- https://saemobilus.sae.org/media/j1939-enhanced-dbc-j1939dbc_202603
+- https://saemobilus.sae.org/standards/j1939da_202606-j1939-digital-annex
+- https://scribd.com/document/415007879/Fms-Standard
+- https://static.nhtsa.gov/odi/tsbs/2018/MC-10141869-9999.pdf
+- https://teltonika-gps.com/blog/what-is-can-bus-a-fleet-management-guide
+- https://thierry-lequeu.fr/data/fms_document_ver02.00vers_11_11_2010.pdf
+- https://trafficnews.jp/post/107128
+- https://trafficnews.jp/post/107734
+- https://udtrucks.com/australia/trucks/quon/safety
+- https://volvobuses.com/content/dam/volvo-buses/markets/master/why-volvo/safety-first/Fact-sheet-Active-Safety-Systems-EN-Volvo-Buses-2023.pdf

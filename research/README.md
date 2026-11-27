@@ -119,3 +119,5 @@
 37. [37_japan_warning_off_rate_and_annoyance_surveys.md](37_japan_warning_off_rate_and_annoyance_surveys.md) — 国内の車載警報 OFF 率・煩わしさ調査（B-33。新規抜粋25件、既出1件、全て抜粋のみ。国内一般ドライバーの OFF 率数値は未発見。OFF/感度切替は取説で確認）
 
 38. [38_arl_design_and_autocorrelated_control_charts.md](38_arl_design_and_autocorrelated_control_charts.md) — 管理図・ARL 設計と自己相関時系列での補正（B-34。新規抜粋のみ16件。日本語で φ ごとの ARL0 数値は未発見。限界の経験分布での再校正・エピソード単位計数・推定誤差の安全率を L4/L6 候補とする。既知パラメータの定常 AR(1) では超過率は名目のまま、エピソード間隔が伸びる【自前計算】）
+
+39. [39_j1939_aebs_signals_and_japan_heavy_truck_adas_signal_access.md](39_j1939_aebs_signals_and_japan_heavy_truck_adas_signal_access.md) — J1939 の AEBS 信号と国内大型車・FMS の予防安全信号の公開状況（B-17。新規本文0／抜粋のみ30／既出2）。AEBS1/2 の PGN は未確定。SPN 5676〜5683 が AEBS 関連。国内4社・FMS とも ADAS 警報の外部公開を示す一次資料は未発見

@@ -179,3 +179,8 @@
 
 ### I-36 [品質] 38 の日本語文献 No.2〜7 は著者・年・掲載誌が抜粋で確定できていない — 未対応
 - 本文確認（I-01 解消後）で書誌を確定する。自前 AR(1) 計算は既知パラメータ・定常のみで、推定誤差入りの検証は未実施。
+
+### I-37 [環境] 2026-11-27 も arxiv.org・isobus.net・csselectronics.com・docs.rs・mlit.go.jp・bodybuilder.scania.com・govinfo.gov・eur-lex・static.nhtsa.gov が WebFetch 不可（I-01 継続）— 要オーナー対応
+- B-17 の AEBS PGN 確定が不能だった。許可ホスト: isobus.net、csselectronics.com、fms-standard.com、mlit.go.jp、github.com。
+
+### I-38 [品質] 39 の SPN 5676〜5680 の名称は検索要約の英語表現で、J1939DA の正式名称・PGN 対応が未確認 — 未対応
